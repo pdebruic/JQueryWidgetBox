@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Fisheye-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQFisheye",
+	"type" : "normal"
+}
