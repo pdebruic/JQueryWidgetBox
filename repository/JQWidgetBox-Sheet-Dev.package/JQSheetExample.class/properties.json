@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-Sheet-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQSheetExample",
+	"type" : "normal"
+}
