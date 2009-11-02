@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 20:24",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Splitter-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQSplitter",
+	"type" : "normal"
+}
