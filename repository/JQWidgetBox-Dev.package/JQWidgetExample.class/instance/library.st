@@ -1,3 +1,3 @@
 accessing
 library
-	^JQWidgetBoxLibrary 
+	^ JQWidgetBoxDeploymentLibrary
