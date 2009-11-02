@@ -1,0 +1,3 @@
+accessing
+numeric
+	method := 'numeric'
