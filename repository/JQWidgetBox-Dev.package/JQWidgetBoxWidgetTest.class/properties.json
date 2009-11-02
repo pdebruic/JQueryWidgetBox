@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 14:24",
+	"super" : "JQueryUiTest",
+	"category" : "JQWidgetBox-Dev-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQWidgetBoxWidgetTest",
+	"type" : "normal"
+}

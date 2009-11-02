@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 14:33",
+	"super" : "WAComponent",
+	"category" : "JQWidgetBox-Dev-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQWidgetExample",
+	"type" : "normal"
+}

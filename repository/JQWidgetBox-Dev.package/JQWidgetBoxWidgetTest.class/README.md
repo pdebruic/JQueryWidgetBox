@@ -1,0 +1,1 @@
+This is a common superclass for tests testing jquery widget wrappers for seaside
