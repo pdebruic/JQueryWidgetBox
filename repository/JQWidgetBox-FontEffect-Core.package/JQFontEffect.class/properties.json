@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 19:54",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-FontEffect-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQFontEffect",
+	"type" : "normal"
+}
