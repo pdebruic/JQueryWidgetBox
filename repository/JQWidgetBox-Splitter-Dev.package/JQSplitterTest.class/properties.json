@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetBoxWidgetTest",
+	"category" : "JQWidgetBox-Splitter-Dev-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQSplitterTest",
+	"type" : "normal"
+}
