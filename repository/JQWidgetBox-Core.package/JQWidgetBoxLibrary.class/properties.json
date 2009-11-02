@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 14:19",
+	"super" : "WAFileLibrary",
+	"category" : "JQWidgetBox-Core-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQWidgetBoxLibrary",
+	"type" : "normal"
+}
