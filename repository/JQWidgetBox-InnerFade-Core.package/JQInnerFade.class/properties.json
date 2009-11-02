@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 20:47",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-InnerFade-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQInnerFade",
+	"type" : "normal"
+}
