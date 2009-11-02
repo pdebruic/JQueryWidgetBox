@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 19:07",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-DropShadow-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQDropShadow",
+	"type" : "normal"
+}
