@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/2/2009 18:13",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-CheckTree-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQCheckTree",
+	"type" : "normal"
+}
