@@ -1,0 +1,13 @@
+{
+	"instance" : { },
+	"class" : {
+		"initialize" : "tbn 11/3/2009 09:18",
+		"loadSeaside30" : "tbn 11/3/2009 09:01",
+		"gofer" : "tbn 11/3/2009 09:18",
+		"loadWidgetBox" : "tbn 11/3/2009 09:36",
+		"packages" : "tbn 11/3/2009 09:28",
+		"widgets" : "tbn 11/3/2009 09:26",
+		"load" : "tbn 11/3/2009 09:11",
+		"askToProceed:" : "tbn 11/3/2009 09:01"
+	}
+}
