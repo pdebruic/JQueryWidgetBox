@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/3/2009 19:38",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-WeekCalendar-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQWeekCalendar",
+	"type" : "normal"
+}
