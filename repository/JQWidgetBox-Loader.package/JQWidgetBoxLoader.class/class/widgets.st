@@ -1,3 +1,3 @@
 accessing
 widgets
-	^#(AlphaNumeric CheckTree DropShadow Fisheye FontEffect InnerFade Sheet Splitter)
+	^#(AlphaNumeric CheckTree DropShadow Fisheye FontEffect ImageDropDown InnerFade Sheet Splitter)
