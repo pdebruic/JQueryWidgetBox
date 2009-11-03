@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/3/2009 15:59",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-FormExample-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQFormExample",
+	"type" : "normal"
+}
