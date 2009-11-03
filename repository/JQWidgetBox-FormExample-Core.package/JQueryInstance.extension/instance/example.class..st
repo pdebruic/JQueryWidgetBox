@@ -5,7 +5,7 @@ example: aStringOrFunction class: aCssClass
 	self 
 		call: 'example'
 		with: aStringOrFunction
-		with: (Dictionary new 
+		with: (GRSmallDictionary new 
 			at: 'className' put: aCssClass;
 			yourself)
 
