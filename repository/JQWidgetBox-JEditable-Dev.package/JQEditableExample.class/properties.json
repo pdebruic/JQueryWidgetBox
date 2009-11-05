@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-JEditable-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"listItem",
+		"listItem2"
+	],
+	"name" : "JQEditableExample",
+	"type" : "normal"
+}
