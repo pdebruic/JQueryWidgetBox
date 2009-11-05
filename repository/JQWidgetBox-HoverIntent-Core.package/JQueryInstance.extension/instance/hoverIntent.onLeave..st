@@ -1,4 +1,3 @@
 *jqwidgetbox-hoverintent-core
-hoverIntent: inFunction onLeave: outFunction
-	
-	self call: 'hoverIntent' with: inFunction with: outFunction
+hoverIntent: in onLeave: out
+	self call: 'hoverIntent' with: in asFunction with: out asFunction

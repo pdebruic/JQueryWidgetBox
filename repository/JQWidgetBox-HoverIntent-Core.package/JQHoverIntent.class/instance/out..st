@@ -1,4 +1,4 @@
 options
 out: aFunction
 	"onMouseOut javascript callback (required)"
-	self optionAt: 'out' put: aFunction
+	self optionAt: 'out' put: aFunction asFunction
