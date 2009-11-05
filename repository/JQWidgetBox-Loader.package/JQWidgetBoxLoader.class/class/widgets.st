@@ -1,3 +1,3 @@
 accessing
 widgets
-	^#(AlphaNumeric CheckTree DropShadow Fisheye FontEffect FormExample ImageDropDown InnerFade Sheet Splitter WeekCalendar JEditable HoverIntent)
+	^#(AlphaNumeric CheckTree DropShadow Fisheye FontEffect FormExample ImageDropDown InnerFade PageFold Sheet Splitter WeekCalendar)
