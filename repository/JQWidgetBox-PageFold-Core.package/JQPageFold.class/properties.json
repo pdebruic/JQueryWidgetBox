@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/5/2009 11:00",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-PageFold-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQPageFold",
+	"type" : "normal"
+}
