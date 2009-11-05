@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JohanBrichau 11/5/2009 10:04",
+	"super" : "JQPlugin",
+	"category" : "JQWidgetBox-JEditable-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"callback"
+	],
+	"name" : "JQEditable",
+	"type" : "normal"
+}
