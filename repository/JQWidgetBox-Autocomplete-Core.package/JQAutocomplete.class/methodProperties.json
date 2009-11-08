@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"scroll:" : "JohanBrichau 11/8/2009 16:32",
+		"max:" : "JohanBrichau 11/8/2009 16:31",
+		"matchContains:" : "JohanBrichau 11/8/2009 16:30",
+		"selectFirst:" : "JohanBrichau 11/8/2009 16:33",
+		"formatItem:" : "JohanBrichau 11/8/2009 16:28",
+		"multiple:" : "JohanBrichau 11/8/2009 16:31",
+		"formatResult:" : "JohanBrichau 11/8/2009 16:28",
+		"callback:" : "JohanBrichau 11/8/2009 13:55",
+		"cacheLength:" : "JohanBrichau 11/8/2009 16:26",
+		"mustMatch:" : "JohanBrichau 11/8/2009 16:32",
+		"method" : "JohanBrichau 11/8/2009 13:29",
+		"multipleSeparator:" : "JohanBrichau 11/8/2009 16:32",
+		"width:" : "JohanBrichau 11/8/2009 16:33",
+		"arguments" : "JohanBrichau 11/8/2009 13:33",
+		"scrollHeight:" : "JohanBrichau 11/8/2009 16:33",
+		"processCallback" : "JohanBrichau 11/8/2009 14:07",
+		"formatMatch:" : "JohanBrichau 11/8/2009 16:28",
+		"delay:" : "JohanBrichau 11/8/2009 16:26",
+		"autoFill:" : "JohanBrichau 11/8/2009 16:25",
+		"minChars:" : "JohanBrichau 11/8/2009 16:31",
+		"matchCase:" : "JohanBrichau 11/8/2009 16:29",
+		"url" : "JohanBrichau 11/8/2009 13:39",
+		"extraParams:" : "JohanBrichau 11/8/2009 16:27",
+		"matchSubset:" : "JohanBrichau 11/8/2009 16:30",
+		"highlight:" : "JohanBrichau 11/8/2009 16:29"
+	},
+	"class" : { }
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JohanBrichau 11/8/2009 16:34",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Autocomplete-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callback"
+	],
+	"name" : "JQAutocomplete",
+	"type" : "normal"
+}
