@@ -12,4 +12,5 @@ widgets
 		Sheet 
 		PageFold 
 		Splitter 
-		WeekCalendar )
+		WeekCalendar
+		EpiClock )
