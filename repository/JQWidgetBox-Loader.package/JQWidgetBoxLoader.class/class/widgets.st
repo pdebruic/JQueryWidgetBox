@@ -3,6 +3,7 @@ widgets
 	^#(AlphaNumeric 
 		CheckTree 
 		DropShadow 
+		EpiClock
 		Fisheye 
 		FontEffect 
 		FormExample 
@@ -13,4 +14,4 @@ widgets
 		PageFold 
 		Splitter 
 		WeekCalendar
-		EpiClock )
+		 )
