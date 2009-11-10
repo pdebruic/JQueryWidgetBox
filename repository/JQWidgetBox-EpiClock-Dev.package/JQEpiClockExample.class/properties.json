@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-EpiClock-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQEpiClockExample",
+	"type" : "normal"
+}
