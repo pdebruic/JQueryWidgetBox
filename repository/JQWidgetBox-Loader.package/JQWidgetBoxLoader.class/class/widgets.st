@@ -1,6 +1,7 @@
 accessing
 widgets
 	^#(AlphaNumeric 
+		Calculator
 		CheckTree 
 		DropShadow 
 		EpiClock
@@ -13,5 +14,4 @@ widgets
 		Sheet 
 		PageFold 
 		Splitter 
-		WeekCalendar
-		 )
+		WeekCalendar)
