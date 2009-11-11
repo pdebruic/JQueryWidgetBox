@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/11/2009 17:23",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Calculator-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQCalculator",
+	"type" : "normal"
+}
