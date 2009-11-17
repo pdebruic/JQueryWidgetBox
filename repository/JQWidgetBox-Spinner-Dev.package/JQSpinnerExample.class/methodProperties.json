@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"renderFastSpinnerOn:" : "JohnToohey 11/17/2009 13:14",
+		"renderTextSpinnerOn:" : "JohnToohey 11/17/2009 13:29",
+		"updateRoot:" : "JohnToohey 11/17/2009 12:18",
+		"renderContentOn:" : "JohnToohey 11/17/2009 13:48",
+		"renderDecimalPlacesSpinnerOn:" : "JohnToohey 11/17/2009 13:49",
+		"renderOnHoverSpinnerOn:" : "JohnToohey 11/17/2009 13:44",
+		"renderStandardSpinnerOn:" : "JohnToohey 11/17/2009 13:52",
+		"renderPercentageSpinnerOn:" : "JohnToohey 11/17/2009 13:32",
+		"renderOnFocusSpinnerOn:" : "JohnToohey 11/17/2009 13:44",
+		"renderCurrencySpinnerOn:" : "JohnToohey 11/17/2009 13:14",
+		"renderFastStepSpinnerOn:" : "JohnToohey 11/17/2009 13:45"
+	},
+	"class" : {
+		"shortName" : "JohnToohey 11/17/2009 11:56",
+		"description" : "JohnToohey 11/17/2009 11:56"
+	}
+}

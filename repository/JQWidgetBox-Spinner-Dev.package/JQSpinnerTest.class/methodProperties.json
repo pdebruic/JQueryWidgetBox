@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"testPrefix" : "JohnToohey 11/17/2009 14:06",
+		"testMinMax" : "TestRunner 11/17/2009 14:10",
+		"testSpeeds" : "JohnToohey 11/17/2009 14:03",
+		"testStep" : "JohnToohey 11/17/2009 14:11",
+		"testSteps" : "JohnToohey 11/17/2009 14:11",
+		"testGroup" : "JohnToohey 11/17/2009 14:08",
+		"testDisable" : "JohnToohey 11/17/2009 13:58",
+		"testEnable" : "TestRunner 11/17/2009 13:59",
+		"testDecimals" : "JohnToohey 11/17/2009 14:05",
+		"testDestroy" : "JohnToohey 11/17/2009 14:00",
+		"testClassName" : "TestRunner 11/17/2009 14:13",
+		"testSuffix" : "JohnToohey 11/17/2009 14:07"
+	},
+	"class" : { }
+}
