@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JohnToohey 11/17/2009 11:21",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Spinner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQSpinner",
+	"type" : "normal"
+}
