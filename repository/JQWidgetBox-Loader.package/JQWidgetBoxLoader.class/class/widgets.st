@@ -1,6 +1,7 @@
 accessing
 widgets
 	^#(AlphaNumeric 
+		Autocomplete
 		Calculator
 		CheckTree 
 		DropShadow 
@@ -8,10 +9,12 @@ widgets
 		Fisheye 
 		FontEffect 
 		FormExample 
+		HoverIntent
 		ImageDropDown 
 		InnerFade 
 		JEditable 
 		Sheet 
+		Spinner
 		PageFold 
 		Splitter 
 		WeekCalendar)
