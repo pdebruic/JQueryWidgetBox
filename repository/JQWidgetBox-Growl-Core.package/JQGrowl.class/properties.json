@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JohnToohey 11/21/2009 14:32",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Growl-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"message"
+	],
+	"name" : "JQGrowl",
+	"type" : "normal"
+}
