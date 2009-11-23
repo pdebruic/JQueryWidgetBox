@@ -82,7 +82,7 @@ accessiblenewssliderCss
 	width: 360px;
 	height: 23px;
 	left: 0;
-	background: url(newsbackbg.gif) no-repeat top right;
+	background: url(newsBackbg.gif) no-repeat top right;
 }
 .business_as_usual .back a {
 	position: absolute;
@@ -91,13 +91,13 @@ accessiblenewssliderCss
 	width: 150px;
 	height: 23px;
 	line-height: 23px;
-	background: url(newsback.gif) no-repeat top right;
+	background: url(newsBack.gif) no-repeat top right;
 }
 .business_as_usual .next {
 	width: 361px;
 	height: 23px;
 	right: 0;
-	background: url(newsnextbg.gif) no-repeat top left;
+	background: url(newsNextbg.gif) no-repeat top left;
 }
 .business_as_usual .next a {
 	position: absolute;
@@ -107,14 +107,14 @@ accessiblenewssliderCss
 	height: 23px;
 	line-height: 23px;
 	text-align: right;
-	background: url(newsnext.gif) no-repeat top left;
+	background: url(newsNext.gif) no-repeat top left;
 }
 .business_as_usual .view_all {
 	border-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;
 	margin: 35px 0 0 0;
 	padding: 8px;
-	background: url(newsviewallbg.gif) repeat-x bottom left;
+	background: url(newsViewallbg.gif) repeat-x bottom left;
 	text-align: center;
 }
 .business_as_usual li {
