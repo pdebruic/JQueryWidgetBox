@@ -1,6 +1,7 @@
 accessing
 widgets
-	^#(AlphaNumeric 
+	^#(AccessibleNewsSlider
+		AlphaNumeric 
 		Autocomplete
 		Calculator
 		CheckTree 
