@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 11/18/2009 10:27",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-UILayout-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQUILayout",
+	"type" : "normal"
+}
