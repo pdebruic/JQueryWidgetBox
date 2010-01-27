@@ -1,10 +1,6 @@
 rendering
 renderExemptedCharactersOn: html
-
-	|id|
-	id := html nextId.
-	html label: 'Alpha only (but with space, dot and colon)'; space.
+	html label: 'Alpha only (but with space, dot and semi-colon)'; space.
 	html textInput 		
-		id: id;
-		script: ((html jQuery id: id) alpha allow: ';. ').
+		script: (html jQuery this alpha allow: ';. ').
 	html horizontalRule 

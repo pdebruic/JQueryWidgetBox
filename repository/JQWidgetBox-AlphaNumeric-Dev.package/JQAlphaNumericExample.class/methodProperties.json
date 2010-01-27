@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"renderCustomSetOfCharactersOn:" : "tbn 11/2/2009 16:18",
-		"renderExemptedCharactersOn:" : "tbn 11/2/2009 16:18",
-		"renderCapitalLettersOnlyOn:" : "tbn 11/2/2009 16:18",
-		"renderAlphaNumericOnlyOn:" : "tbn 11/2/2009 16:18",
-		"renderLowercaseOnlyOn:" : "tbn 11/2/2009 16:18",
+		"renderCustomSetOfCharactersOn:" : "NickAger 1/27/2010 15:55",
+		"renderExemptedCharactersOn:" : "NickAger 1/27/2010 15:58",
+		"renderCapitalLettersOnlyOn:" : "NickAger 1/27/2010 15:54",
+		"renderAlphaNumericOnlyOn:" : "NickAger 1/27/2010 15:53",
+		"renderLowercaseOnlyOn:" : "NickAger 1/27/2010 15:56",
 		"renderContentOn:" : "tbn 11/2/2009 15:59",
-		"renderNumericOnlyOn:" : "tbn 11/2/2009 16:18",
-		"renderAlphaOnlyOn:" : "tbn 11/2/2009 16:17",
+		"renderNumericOnlyOn:" : "NickAger 1/27/2010 15:56",
+		"renderAlphaOnlyOn:" : "NickAger 1/27/2010 15:54",
 		"updateRoot:" : "tbn 11/2/2009 16:06"
 	},
 	"class" : {
