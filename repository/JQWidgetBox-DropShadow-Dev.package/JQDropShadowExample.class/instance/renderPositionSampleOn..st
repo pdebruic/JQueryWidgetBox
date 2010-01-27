@@ -1,11 +1,7 @@
 rendering
 renderPositionSampleOn: html
-
-	|id |
-	id := 'pos'.
 	html div
-		id: id;
-		script: ((html jQuery id: id) dropShadow 
+		script: (html jQuery this dropShadow 
 		top: -10;
 		left: 1);
 		with: [html heading: 'Changing Position'].
