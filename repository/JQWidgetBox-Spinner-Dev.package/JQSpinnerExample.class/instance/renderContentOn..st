@@ -31,4 +31,8 @@ renderContentOn: html
 			
 	html span: 'On Hover Spinner: '.
 	self renderOnHoverSpinnerOn: html.
-	html horizontalRule.								
+	html horizontalRule.		
+			
+	html span: 'Text Spinner: '.
+	self renderTextSpinnerOn: html.
+	html horizontalRule.									

@@ -1,16 +1,16 @@
 {
 	"instance" : {
-		"renderFastSpinnerOn:" : "JohnToohey 11/17/2009 13:14",
-		"renderTextSpinnerOn:" : "JohnToohey 11/17/2009 13:29",
+		"renderFastSpinnerOn:" : "NickAger 1/27/2010 16:23",
+		"renderTextSpinnerOn:" : "NickAger 1/27/2010 16:26",
 		"updateRoot:" : "JohnToohey 11/17/2009 12:18",
-		"renderContentOn:" : "JohnToohey 11/17/2009 13:48",
-		"renderDecimalPlacesSpinnerOn:" : "JohnToohey 11/17/2009 13:49",
-		"renderOnHoverSpinnerOn:" : "JohnToohey 11/17/2009 13:44",
+		"renderContentOn:" : "NickAger 1/27/2010 16:25",
+		"renderDecimalPlacesSpinnerOn:" : "NickAger 1/27/2010 16:23",
+		"renderOnHoverSpinnerOn:" : "NickAger 1/27/2010 16:24",
 		"renderStandardSpinnerOn:" : "JohnToohey 11/17/2009 13:52",
-		"renderPercentageSpinnerOn:" : "JohnToohey 11/17/2009 13:32",
-		"renderOnFocusSpinnerOn:" : "JohnToohey 11/17/2009 13:44",
-		"renderCurrencySpinnerOn:" : "JohnToohey 11/17/2009 13:14",
-		"renderFastStepSpinnerOn:" : "JohnToohey 11/17/2009 13:45"
+		"renderPercentageSpinnerOn:" : "NickAger 1/27/2010 16:24",
+		"renderOnFocusSpinnerOn:" : "NickAger 1/27/2010 16:24",
+		"renderCurrencySpinnerOn:" : "NickAger 1/27/2010 16:22",
+		"renderFastStepSpinnerOn:" : "NickAger 1/27/2010 16:23"
 	},
 	"class" : {
 		"shortName" : "JohnToohey 11/17/2009 11:56",
