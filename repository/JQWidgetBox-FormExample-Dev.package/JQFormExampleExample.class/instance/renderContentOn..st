@@ -1,13 +1,10 @@
 rendering
 renderContentOn: html
-	|id|
-	id := html nextId.
 	html textInput 
-		script: ((html jQuery id: id) example: 'Example text');
+		script: (html jQuery this example: 'Example text');
 		callback: [:value |].
 	html break;break.	
 		
-	id := html nextId.
 	html textInput 
-		script: ((html jQuery id: id) example: 'Styled Example text' class: 'foo');
+		script: (html jQuery this example: 'Styled Example text' class: 'foo');
 		callback: [:value |].	
