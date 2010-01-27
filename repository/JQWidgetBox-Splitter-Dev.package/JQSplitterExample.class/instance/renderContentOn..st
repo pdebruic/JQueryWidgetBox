@@ -1,10 +1,8 @@
 rendering
 renderContentOn: html
-	|id|
-	id := 'verticalSplitter'.
-	html div		
-		id: id;
-		script: ((html jQuery id: id) splitter
+	html div
+		id: #verticalSplitter;		
+		script: (html jQuery this splitter
 			vertical; 
 			outline: true;
 			minLeft: 100;
