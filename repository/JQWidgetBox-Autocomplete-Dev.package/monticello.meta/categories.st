@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'JQWidgetBox-Autocomplete-Dev'!
+SystemOrganization addCategory: #'JQWidgetBox-Autocomplete-Dev-Example'!
