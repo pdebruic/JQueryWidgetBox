@@ -6,7 +6,7 @@ renderExamples3On: html
 			url: '#';
 		script: (html jQuery this bubbletip target: (html jQuery html: 
 			[:r | r preformatted class: 'tip'; id: #id101; with: 
-				'The popup text is defined within 
+				'Here the popup text is defined within 
 the script attached to the anchor']));
 			with: 'above'.
 		html text: ', '.
@@ -14,12 +14,11 @@ the script attached to the anchor']));
 			url: '#';
 			script: (html jQuery this bubbletip 
 				target: (html jQuery html: [:r | r paragraph id: #id102; with: [
-					r text: 'The html passed to the target '. 
+					r text: 'In these self contained examples, the html passed to the target '. 
+					r break.
 					r emphasis: 'must'. 
-					r text: ' be within an html element which has a defined id']]);
-				deltaDirection: 'down';
-				deltaPosition: 50;
-				offsetTop: 20);
+					r text: ' be include an enclosing html element with a defined id']]);
+				deltaDirection: 'down');
 			 with: 'below'.
 		html text: ', '.
 		html anchor
@@ -31,8 +30,7 @@ the script attached to the anchor']));
 						r break.
 						r text: 'for more detail.']]);
 				deltaDirection: 'left';
-				animationDuration: 100;
-				offsetLeft: -20);
+				animationDuration: 100);
 			with: 'to the left'.
 		html text: ' or '.
 		html anchor
