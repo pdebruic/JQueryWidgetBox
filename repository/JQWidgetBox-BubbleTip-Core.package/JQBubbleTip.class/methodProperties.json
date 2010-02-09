@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"target:" : "NickAger 2/8/2010 15:52",
+		"deltaPosition:" : "NickAger 2/4/2010 13:31",
+		"positionAt:" : "NickAger 2/4/2010 13:43",
+		"animationDuration:" : "NickAger 2/4/2010 13:32",
+		"bindShow:" : "NickAger 2/4/2010 13:44",
+		"calculateOnShow:" : "NickAger 2/4/2010 13:18",
+		"delayShow:" : "NickAger 2/4/2010 13:28",
+		"arguments" : "NickAger 2/9/2010 00:46",
+		"offsetLeft:" : "NickAger 2/4/2010 13:36",
+		"positionAtElement:" : "NickAger 2/8/2010 16:11",
+		"bindHide:" : "NickAger 2/4/2010 13:44",
+		"delayHide:" : "NickAger 2/4/2010 13:44",
+		"animationEasing:" : "NickAger 2/4/2010 13:44",
+		"method" : "NickAger 2/4/2010 12:22",
+		"offsetTop:" : "NickAger 2/4/2010 13:36",
+		"deltaDirection:" : "NickAger 2/4/2010 13:30"
+	},
+	"class" : { }
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAFileLibrary",
+	"category" : "JQWidgetBox-BubbleTip-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQWidgetBoxLibrary",
+	"type" : "normal"
+}
