@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-BubbleTip-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQBubbleTipExample",
+	"type" : "normal"
+}
