@@ -1,4 +1,4 @@
-uploaded
+*jqwidgetbox-bubbletip-core
 bubbletipCss
 	^ '/*******************************/
 /********* bubbletip ***********/
