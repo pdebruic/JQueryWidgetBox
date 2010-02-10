@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"event:" : "NickAger 2/8/2010 15:14",
+		"api:" : "NickAger 2/8/2010 15:07",
+		"onBeforeCallback:" : "NickAger 2/8/2010 15:23",
+		"fadeInSpeed:" : "NickAger 2/8/2010 15:15",
+		"tabs:" : "NickAger 2/8/2010 15:21",
+		"arguments" : "NickAger 2/9/2010 11:02",
+		"panesSelector:" : "NickAger 2/9/2010 10:59",
+		"effect:" : "NickAger 2/8/2010 15:13",
+		"rotate:" : "NickAger 2/8/2010 15:19",
+		"initialIndex:" : "NickAger 2/8/2010 15:18",
+		"method" : "NickAger 2/9/2010 10:53",
+		"fadeOutSpeed:" : "NickAger 2/8/2010 15:18",
+		"onClick:" : "NickAger 2/8/2010 15:24",
+		"current:" : "NickAger 2/8/2010 15:09"
+	},
+	"class" : { }
+}

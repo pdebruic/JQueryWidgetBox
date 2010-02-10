@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "NickAger 2/8/2010 15:02",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-JQTools-Tabs-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"panesSelector"
+	],
+	"name" : "JQToolsTabs",
+	"type" : "normal"
+}
