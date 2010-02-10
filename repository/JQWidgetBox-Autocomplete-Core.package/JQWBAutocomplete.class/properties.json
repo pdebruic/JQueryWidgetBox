@@ -8,6 +8,6 @@
 	"instvars" : [
 		"callback"
 	],
-	"name" : "JQAutocomplete",
+	"name" : "JQWBAutocomplete",
 	"type" : "normal"
 }
