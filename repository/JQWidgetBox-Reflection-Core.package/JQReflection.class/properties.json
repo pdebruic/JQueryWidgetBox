@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "tbn 2/10/2010 15:15",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Reflection-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"method"
+	],
+	"name" : "JQReflection",
+	"type" : "normal"
+}
