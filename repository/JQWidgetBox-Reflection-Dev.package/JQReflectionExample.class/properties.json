@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-Reflection-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQReflectionExample",
+	"type" : "normal"
+}

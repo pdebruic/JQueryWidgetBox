@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetBoxWidgetTest",
+	"category" : "JQWidgetBox-Reflection-Dev-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQReflectionTest",
+	"type" : "normal"
+}
