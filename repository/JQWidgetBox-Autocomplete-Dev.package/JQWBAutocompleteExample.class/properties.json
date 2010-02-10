@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "JQAutocompleteExample",
+	"name" : "JQWBAutocompleteExample",
 	"type" : "normal"
 }
