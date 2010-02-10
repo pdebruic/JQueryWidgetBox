@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"submenuHoverIntent:" : "JohanBrichau 11/1/2009 16:06",
+		"shadowOpacity:" : "JohanBrichau 11/1/2009 16:01",
+		"hoverIntent:" : "JohanBrichau 11/1/2009 16:04",
+		"submenuLeft:" : "JohanBrichau 11/30/2009 20:51",
+		"adjustTop:" : "JohanBrichau 11/18/2009 17:08",
+		"additionalData:" : "JohanBrichau 11/1/2009 15:54",
+		"closeAfter:" : "JohanBrichau 11/1/2009 16:02",
+		"shadow:" : "JohanBrichau 11/1/2009 16:00",
+		"overflow:" : "JohanBrichau 11/18/2009 17:18",
+		"fadeOutTime:" : "JohanBrichau 11/1/2009 15:57",
+		"method" : "JohanBrichau 11/1/2009 15:49",
+		"iconPath:" : "JohanBrichau 11/1/2009 15:56",
+		"hasImages:" : "JohanBrichau 11/1/2009 15:56",
+		"menuSelector:" : "JohanBrichau 11/1/2009 15:54",
+		"minZindex:" : "JohanBrichau 11/1/2009 16:03",
+		"submenuCallback:" : "JohanBrichau 2/3/2010 21:09",
+		"submenuTop:" : "JohanBrichau 11/30/2009 20:51",
+		"closeOnMouseOut:" : "JohanBrichau 11/1/2009 16:02",
+		"opacity:" : "JohanBrichau 11/1/2009 15:59",
+		"fadeInTime:" : "JohanBrichau 11/1/2009 15:57",
+		"menuTop:" : "JohanBrichau 11/1/2009 15:58",
+		"shadowColor:" : "JohanBrichau 11/1/2009 16:00",
+		"template:" : "JohanBrichau 11/1/2009 15:52",
+		"openOnRight:" : "JohanBrichau 11/1/2009 15:55",
+		"openOnClick:" : "JohanBrichau 11/1/2009 16:01",
+		"menuLeft:" : "JohanBrichau 11/1/2009 15:58",
+		"menuWidth:" : "JohanBrichau 11/1/2009 15:55",
+		"adjustLeft:" : "JohanBrichau 11/18/2009 17:08"
+	},
+	"class" : { }
+}
