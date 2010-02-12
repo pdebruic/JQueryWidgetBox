@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-Cycle-Dev",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"demoSelector"
+	],
+	"name" : "JQCycleExample",
+	"type" : "normal"
+}
