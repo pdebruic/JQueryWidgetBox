@@ -7,4 +7,4 @@ effect: aString
 	* 'ajax': loads tab contents from the server using AJAX. 
 	* 'slide': a vertical sliding effect, suitable for accordions
 	* 'horizontal' a horizontal sliding effect, suitable for horizontal accordions"
-	self optionAt: 'effect' put: aString.
+	self optionAt: 'effect' put: aString
