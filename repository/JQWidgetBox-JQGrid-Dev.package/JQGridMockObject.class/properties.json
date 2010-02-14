@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "JQWidgetBox-JQGrid-Dev-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aSelector1",
+		"aSelector2",
+		"aSelector3"
+	],
+	"name" : "JQGridMockObject",
+	"type" : "normal"
+}

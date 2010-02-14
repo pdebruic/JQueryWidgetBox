@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-JQGrid-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"allData"
+	],
+	"name" : "JQGridExample",
+	"type" : "normal"
+}

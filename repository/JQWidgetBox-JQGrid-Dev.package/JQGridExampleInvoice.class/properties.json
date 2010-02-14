@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "JQWidgetBox-JQGrid-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"date",
+		"invoiceName",
+		"amount",
+		"tax",
+		"total",
+		"note"
+	],
+	"name" : "JQGridExampleInvoice",
+	"type" : "normal"
+}
