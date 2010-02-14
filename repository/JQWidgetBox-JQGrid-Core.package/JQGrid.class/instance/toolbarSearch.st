@@ -1,0 +1,3 @@
+options
+toolbarSearch
+	toolbarSearch := true.

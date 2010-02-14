@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"createDataValuesFor:" : "BartGauquie 2/7/2010 15:28",
+		"createColumnNames" : "BartGauquie 2/3/2010 20:36",
+		"addFilterCriteriaFrom:to:" : "BartGauquie 2/14/2010 11:39",
+		"createColumnModel" : "BartGauquie 2/3/2010 20:45",
+		"initialize" : "BartGauquie 2/3/2010 20:33",
+		"add:" : "BartGauquie 2/3/2010 20:33",
+		"columnForSearchRequest:" : "BartGauquie 2/7/2010 14:41"
+	},
+	"class" : { }
+}

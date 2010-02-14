@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"operation" : "BartGauquie 2/10/2010 20:30",
+		"jqGridColumn" : "BartGauquie 2/10/2010 20:30",
+		"filterValue" : "BartGauquie 2/11/2010 20:49",
+		"filterValue:" : "BartGauquie 2/11/2010 20:49",
+		"operation:" : "BartGauquie 2/10/2010 20:30",
+		"jqGridColumn:" : "BartGauquie 2/10/2010 20:30"
+	},
+	"class" : {
+		"jqGridColumn:filterValue:operation:" : "BartGauquie 2/11/2010 20:49"
+	}
+}

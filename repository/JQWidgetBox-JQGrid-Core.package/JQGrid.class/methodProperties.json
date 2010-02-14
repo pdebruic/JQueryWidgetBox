@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"searchCallback:" : "BartGauquie 1/31/2010 14:14",
+		"showTotalNumberOfRecords:" : "BartGauquie 2/5/2010 21:03",
+		"processSearchCallback" : "BartGauquie 2/10/2010 20:53",
+		"rowList:" : "BartGauquie 1/30/2010 21:58",
+		"columnModel:" : "BartGauquie 2/7/2010 11:44",
+		"pagerId:" : "BartGauquie 2/7/2010 15:05",
+		"initialize" : "BartGauquie 2/9/2010 22:00",
+		"toolbarSearchJavascriptContentOn:" : "BartGauquie 2/14/2010 11:56",
+		"sortname:" : "BartGauquie 1/30/2010 22:00",
+		"toolbarSearch" : "BartGauquie 2/9/2010 21:58",
+		"caption:" : "BartGauquie 1/30/2010 22:08",
+		"method" : "BartGauquie 1/30/2010 20:52",
+		"altRows:" : "BartGauquie 2/7/2010 15:45",
+		"javascriptContentOn:" : "BartGauquie 2/9/2010 21:59",
+		"rowNum:" : "BartGauquie 1/30/2010 21:57",
+		"columns:" : "BartGauquie 2/6/2010 09:16"
+	},
+	"class" : { }
+}

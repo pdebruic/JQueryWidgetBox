@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-JQGrid-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"searchCallback",
+		"jqGridColumns",
+		"toolbarSearch"
+	],
+	"name" : "JQGrid",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+private
+filterCriteria
+	^filterCriteria copy

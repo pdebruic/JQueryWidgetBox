@@ -1,0 +1,3 @@
+testing
+isSortDescending
+	^sortOrder = 'desc'

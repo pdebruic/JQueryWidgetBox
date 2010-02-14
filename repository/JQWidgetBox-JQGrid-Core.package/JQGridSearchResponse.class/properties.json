@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "JQWidgetBox-JQGrid-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"page",
+		"totalNumberOfPages",
+		"totalNumberOfRecords",
+		"rowContents",
+		"jqGridColumns"
+	],
+	"name" : "JQGridSearchResponse",
+	"type" : "normal"
+}

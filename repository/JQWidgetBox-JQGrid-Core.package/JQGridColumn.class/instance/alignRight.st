@@ -1,0 +1,3 @@
+accessing
+alignRight
+	align := 'right'

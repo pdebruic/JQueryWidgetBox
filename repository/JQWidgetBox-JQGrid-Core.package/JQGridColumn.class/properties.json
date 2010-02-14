@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "JQWidgetBox-JQGrid-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"label",
+		"id",
+		"sortId",
+		"width",
+		"align",
+		"sortable",
+		"selectorOrOneArgBlock",
+		"formatBlock",
+		"parseBlock"
+	],
+	"name" : "JQGridColumn",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+alignCenter
+	align := 'center'
