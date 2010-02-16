@@ -1,7 +1,8 @@
 rendering
 renderHeadingSectionOn: html
 	html heading level: 3; with: 'JQuery Cycle Plugin'.
-	html paragraph: 'The jQuery Cycle Plugin is a slideshow plugin that supports many different types of transition effects. It supports pause-on-hover, auto-stop, auto-fit, before/after callbacks, click triggers and much more'.
+	html blockquote class: 'blockquoteCss';
+with: [html html: '&lsquo;The jQuery Cycle Plugin is a slideshow plugin that supports many different types of transition effects. It supports pause-on-hover, auto-stop, auto-fit, before/after callbacks, click triggers and much more&rsquo;'].
 	
 	html heading level: 4; with: 'original jQuery Cycle documentation and download:'.
 	html paragraph: [
