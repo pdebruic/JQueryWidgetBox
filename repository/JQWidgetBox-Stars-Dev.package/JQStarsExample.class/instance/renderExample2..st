@@ -13,12 +13,14 @@ renderExample2: html
 		html form
 			id: #radioForm;
 			with: [
-			html radioGroup:[ :group |
+			html radioGroup
+				selected: 6; "is there a way to do this directly eg selected: optionDescription detectWithIndex: [:each | each = 'Good'];  ?"
+				callback: [];
+				with: [ :group |
 					optionDescriptions doWithIndex: [:each :index|
 						html radioButton
 							group: group;
 					 		value: index;
-							selected: each = 'Good';
 							title: each
 					]
 				].
@@ -38,11 +40,13 @@ renderExample2: html
 			id: #starForm;
 			script: ((html jQuery this stars) captionEl: (html jQuery: #optionDescription2); split: 2);
 			with: [
-				html radioGroup:[ :group |
+				html radioGroup
+					callback: [];
+					selected: 7; "is there a way to do this directly eg selected: optionDescription detectWithIndex: [:each | each = 'Almost good'];  ?"
+					with: [ :group |
 						optionDescriptions doWithIndex: [:each :index|
 							html radioButton
 								group: group;
-								selected: each = 'Very good';
 					 			value: index; title: each 
 						]
 					]

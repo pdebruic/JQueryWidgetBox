@@ -8,12 +8,14 @@ renderExample1: html
 	html div style: 'float:left'; with: [
 		html strong: 'Before'.
 		html form with: [
-			html radioGroup: [ :group |
+			html radioGroup
+				selected: 7; "is there a way to do this directly eg selected: optionDescription detectWithIndex: [:each | each = 'Good'];  ?"
+				callback: [];
+				with: [ :group |
 					optionDescriptions doWithIndex: [:each :index|
 						html radioButton
 							group: group;
 					 		value: index;
-							selected: each = 'Good';
 							title: each
 					]
 				]
@@ -30,11 +32,13 @@ renderExample1: html
 				captionEl: (html jQuery: #optionDescription);
 				cancelShow: false);
 			with: [
-				html radioGroup:[ :group |
+				html radioGroup
+					callback: [];
+					selected: 6; "is there a way to do this directly eg selected: optionDescription detectWithIndex: [:each | each = 'Almost good'];  ?"
+					with: [ :group |
 						optionDescriptions doWithIndex: [:each :index|
 							html radioButton
 								group: group;
-								selected: each = 'Very good';
 					 			value: index; title: each 
 						]
 					]
