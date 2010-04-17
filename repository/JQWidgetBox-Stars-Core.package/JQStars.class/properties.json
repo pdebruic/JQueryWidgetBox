@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Stars-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQStars",
+	"type" : "normal"
+}
