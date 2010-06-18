@@ -5,7 +5,13 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"north",
+		"south",
+		"east",
+		"west",
+		"center"
+	],
 	"name" : "JQUILayout",
 	"type" : "normal"
 }
