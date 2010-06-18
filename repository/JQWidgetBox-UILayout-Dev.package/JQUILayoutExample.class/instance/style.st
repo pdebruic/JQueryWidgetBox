@@ -21,4 +21,10 @@ style
 	.ui-layout-toggler {  
 		background: #AAA; 
 	} 
+	.ui-layout-toggler .content {
+	   font-size: 12px; /* IMPORTANT: default = 1px */
+	   font-weight: bold;
+	   text-align: center;
+}
+
  '
