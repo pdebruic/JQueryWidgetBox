@@ -4,7 +4,12 @@ renderContentOn: html
  	| myLayout |
 	myLayout := (html jQuery: 'body') layout.
 "	myLayout applyDefaultStyles."
-	myLayout north at: 'size' put: 'auto'; at: 'resizable' put: false.
+	myLayout north at: 'size' put: 'auto';
+		at: 'resizable' put: false;
+		at: 'togglerLength_open' put: 20; 
+		at: 'togglerLength_closed' put: 20; 
+		at: 'togglerContent_closed' put: 'v';
+		at: 'togglerContent_open' put: '^'.
 	myLayout south at: 'size' put: 120.
 	myLayout west
 		at: 'size' put: 180; 
@@ -21,7 +26,7 @@ renderContentOn: html
 		class: 'ui-layout-center';
 		id: 'center';
 		with: 'Center'.
-	html div class: 'ui-layout-north'; with: [html heading: 'Seaside UI Layout Demo'].
+	html div class: 'ui-layout-north'; with: [html heading: 'Seaside JQuery UI Layout Demo'].
 	html div class: 'ui-layout-east'; with: 'East'.
 	html div
 		class: 'ui-layout-west';

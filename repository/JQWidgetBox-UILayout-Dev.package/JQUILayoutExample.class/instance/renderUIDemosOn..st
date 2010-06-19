@@ -20,3 +20,10 @@ renderUIDemosOn: html
 			s << (s jQuery: #center) html: JQTabsFunctionalTest new.
 			self updateHistoryOn: s with: 'Tabs'  ]);
 		with: 'Tabs'.
+		html break.
+	html anchor
+		url: '#';
+		onClick: (html jQuery ajax script: [:s | 
+			s << (s jQuery: #center) html: JQDialogFunctionalTest new.
+			self updateHistoryOn: s with: 'Dialog'  ]);
+		with: 'Dialog'.
