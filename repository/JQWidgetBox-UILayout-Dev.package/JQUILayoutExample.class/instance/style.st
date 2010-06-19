@@ -5,15 +5,18 @@ style
 		overflow:hidden;
 		height:100%;
 		margin:0;
-		padding:0}
- 
+		padding:0;
+		font-size:11px;
+		font-family:Verdana}
+ 	h1 {color:#ff7200;background:#ddd;margin:0;padding:4px}
 	.ui-layout-pane { /* all panes */ 
 		background: #FFF; 
 		border: 1px solid #BBB; 
-		padding: 10px; 
+		padding: 1px; 
 		overflow: auto;
 	} 
- 
+ 	.ui-layout-pane-center {padding:4px;padding-left:10px}
+	.ui-layout-pane-north {padding:0px}
 	.ui-layout-resizer {   
 		background: #DDD; 
 	} 
@@ -26,5 +29,6 @@ style
 	   font-weight: bold;
 	   text-align: center;
 }
+.ui-accordion .ui-accordion-content {padding-top:0px;padding-bottom:4px !important;}
 
  '

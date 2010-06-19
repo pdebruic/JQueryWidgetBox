@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"items",
+		"history"
+	],
 	"name" : "JQUILayoutExample",
 	"type" : "normal"
 }

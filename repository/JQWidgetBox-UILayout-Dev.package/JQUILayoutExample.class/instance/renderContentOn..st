@@ -5,9 +5,10 @@ renderContentOn: html
 	myLayout := (html jQuery: 'body') layout.
 "	myLayout applyDefaultStyles."
 	myLayout north at: 'size' put: 'auto'; at: 'resizable' put: false.
+	myLayout south at: 'size' put: 120.
 	myLayout west
-		at: 'size' put: 100; 
-		at: 'maxSize' put: 200; 
+		at: 'size' put: 180; 
+		at: 'maxSize' put: 280; 
 		at: 'togglerLength_open' put: 20; 
 		at: 'togglerLength_closed' put: 20; 
 		at: 'togglerAlign_open' put: 'top'; 
@@ -16,12 +17,18 @@ renderContentOn: html
 		at: 'togglerContent_open' put: '&#8249'.
 	myLayout east at: 'initClosed' put: true.
 	html document addLoadScript: myLayout.		   
-	html div class: 'ui-layout-center'; with: 'Center'.
-	html div class: 'ui-layout-north'; with: 'North'.
-	html div class: 'ui-layout-south'; with: 'South'.
+	html div
+		class: 'ui-layout-center';
+		id: 'center';
+		with: 'Center'.
+	html div class: 'ui-layout-north'; with: [html heading: 'Seaside UI Layout Demo'].
 	html div class: 'ui-layout-east'; with: 'East'.
-	html div class: 'ui-layout-west'; with: 'West'.	
+	html div
+		class: 'ui-layout-west';
+		with: [self renderAccordionOn: html].	
+	html div
+		class: 'ui-layout-south';
+		id: 'south';
+		with: [self renderHistoryOn: html].
 
-
-	
  
