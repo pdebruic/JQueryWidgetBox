@@ -1,7 +1,8 @@
 rendering
 renderAccordionOn: html
 	html div
-		script: html jQuery new accordion;
+		id: 'accordion1';
+		script: (html jQuery new accordion fillSpace: true);
 		with: [
 			self items keysAndValuesDo: [ :name :renderBlock |
 				html div: [ html anchor: name ].

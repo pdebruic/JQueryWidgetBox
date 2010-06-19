@@ -17,6 +17,7 @@ style
 	} 
  	.ui-layout-pane-center {padding:4px;padding-left:10px}
 	.ui-layout-pane-north {padding:0px;border-bottom:0px}
+	.ui-layout-pane-west {overflow:hidden}
 	.ui-layout-resizer {   
 		background: #DDD; 
 	}
