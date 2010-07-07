@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"enableEscapeButton:" : "FrancoisStephany 7/7/2010 10:02",
+		"transitionOut:" : "FrancoisStephany 7/7/2010 10:00",
+		"overlayOpacity:" : "FrancoisStephany 7/7/2010 09:59",
+		"transitionIn:" : "FrancoisStephany 7/7/2010 10:00",
+		"padding:" : "FrancoisStephany 7/7/2010 10:03",
+		"autoDimensions:" : "FrancoisStephany 7/7/2010 10:05",
+		"showCloseButton:" : "FrancoisStephany 7/5/2010 17:54",
+		"callback:" : "FrancoisStephany 7/5/2010 21:49",
+		"type:" : "FrancoisStephany 7/5/2010 17:56",
+		"method" : "FrancoisStephany 7/5/2010 17:09",
+		"autoScale:" : "FrancoisStephany 7/7/2010 10:05",
+		"width:" : "FrancoisStephany 7/7/2010 10:04",
+		"height:" : "FrancoisStephany 7/7/2010 10:04",
+		"speedIn:" : "FrancoisStephany 7/7/2010 10:01",
+		"centerOnScroll:" : "FrancoisStephany 7/7/2010 10:06",
+		"titlePosition:" : "FrancoisStephany 7/5/2010 17:53",
+		"titleShow:" : "FrancoisStephany 7/5/2010 17:52",
+		"processCallback" : "FrancoisStephany 7/5/2010 21:49",
+		"overlayColor:" : "FrancoisStephany 7/7/2010 10:00",
+		"speedOut:" : "FrancoisStephany 7/7/2010 10:01",
+		"margin:" : "FrancoisStephany 7/7/2010 10:03"
+	},
+	"class" : { }
+}

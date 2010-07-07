@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-FancyBox-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callback"
+	],
+	"name" : "JQFancybox",
+	"type" : "normal"
+}
