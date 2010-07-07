@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "JQWidgetBox-FullCalendar-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"title",
+		"start",
+		"end",
+		"allDay",
+		"url",
+		"cssClassName",
+		"editable"
+	],
+	"name" : "JQFullCalendarEvent",
+	"type" : "normal"
+}

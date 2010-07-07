@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-FullCalendar-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQFullCalendar",
+	"type" : "normal"
+}

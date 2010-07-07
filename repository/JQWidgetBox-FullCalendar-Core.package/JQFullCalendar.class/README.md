@@ -1,0 +1,1 @@
+JQFullCalendar.  See: http://arshaw.com/fullcalendar/
