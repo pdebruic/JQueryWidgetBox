@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "JQWidgetBox-FullCalendar-Dev-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"event",
+		"edit",
+		"events",
+		"editedEvent",
+		"timeList",
+		"calendar"
+	],
+	"name" : "JQFullCalendarEventEditor",
+	"type" : "normal"
+}
