@@ -1,24 +1,23 @@
 {
 	"instance" : {
-		"allDay:" : "PaulDeBruicker 6/20/2010 11:54",
-		"url:" : "PaulDeBruicker 6/20/2010 11:53",
-		"title:" : "PaulDeBruicker 6/22/2010 17:34",
-		"initialize" : "PaulDeBruicker 6/22/2010 17:34",
-		"start:" : "PaulDeBruicker 6/22/2010 17:34",
-		"className" : "PaulDeBruicker 7/14/2010 16:07",
+		"cssClassName" : "PaulDeBruicker 6/20/2010 11:55",
 		"editable" : "PaulDeBruicker 6/20/2010 11:53",
 		"end" : "PaulDeBruicker 6/22/2010 17:34",
 		"jsonOn:" : "PaulDeBruicker 6/22/2010 20:43",
 		"title" : "PaulDeBruicker 6/20/2010 11:53",
-		"end:" : "PaulDeBruicker 6/20/2010 11:55",
-		"allDay" : "PaulDeBruicker 6/20/2010 11:53",
-		"id:" : "PaulDeBruicker 6/20/2010 11:53",
-		"cssClassName:" : "PaulDeBruicker 6/20/2010 11:55",
-		"cssClassName" : "PaulDeBruicker 6/20/2010 11:55",
 		"url" : "PaulDeBruicker 6/20/2010 11:53",
 		"id" : "PaulDeBruicker 6/20/2010 11:53",
 		"start" : "PaulDeBruicker 6/22/2010 17:34",
-		"editable:" : "PaulDeBruicker 6/22/2010 17:34"
+		"title:" : "PaulDeBruicker 6/22/2010 17:34",
+		"initialize" : "PaulDeBruicker 6/22/2010 17:34",
+		"allDay" : "PaulDeBruicker 6/20/2010 11:53",
+		"id:" : "PaulDeBruicker 6/20/2010 11:53",
+		"editable:" : "PaulDeBruicker 6/22/2010 17:34",
+		"allDay:" : "PaulDeBruicker 6/20/2010 11:54",
+		"cssClassName:" : "PaulDeBruicker 6/20/2010 11:55",
+		"start:" : "PaulDeBruicker 6/22/2010 17:34",
+		"end:" : "PaulDeBruicker 6/20/2010 11:55",
+		"url:" : "PaulDeBruicker 6/20/2010 11:53"
 	},
 	"class" : { }
 }
