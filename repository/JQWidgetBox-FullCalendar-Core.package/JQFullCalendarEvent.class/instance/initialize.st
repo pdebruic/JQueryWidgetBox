@@ -1,4 +1,5 @@
 accessing
 initialize
 	allDay := false.
-	editable := true
+	editable := true.
+	cssClassName :=''.
