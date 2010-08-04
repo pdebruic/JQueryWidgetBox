@@ -1,8 +1,9 @@
 scripts
-buildContextualMenuScriptOn: html for: aJQuery
-	"Script to build a simple contextual menu on aJQuery selector of elements"
+buildDynamicContextualMenuScriptOn: html for: aJQuery
+	"Script to build a contextual menu with a dynamic submenu on aJQuery selector of elements"
 	^ aJQuery buildContextualMenu
-							menuWidth: 50;
+							submenuCallback: [:menuId | self subMenuRenderBlockFor: menuId];
+							menuWidth: 100;
 							overflow: 2;
 							hasImages: false;
 							fadeInTime: 20;
@@ -11,5 +12,4 @@ buildContextualMenuScriptOn: html for: aJQuery
 							submenuTop: -5;
 							opacity: 0.99;
 							closeOnMouseOut: true;
-							onContextualMenu: (self contextMenuOpenScriptOn: html);
 							shadow: false
