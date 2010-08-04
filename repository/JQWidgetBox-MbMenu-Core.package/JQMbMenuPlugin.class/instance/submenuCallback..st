@@ -10,5 +10,5 @@ submenuCallback: aBlock
 												menuId := self requestContext request postFields at: 'menuId'. 
 												self render: (aBlock value: menuId) on: response stream]].
 	id := self renderContext callbacks store: callback.
-	self template: (self renderContext actionBaseUrl addParameter: id)
+	self template: (self renderContext actionBaseUrl copy addField: id)
 
