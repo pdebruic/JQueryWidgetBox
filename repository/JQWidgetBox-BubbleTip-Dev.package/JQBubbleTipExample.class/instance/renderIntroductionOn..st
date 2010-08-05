@@ -9,3 +9,9 @@ renderIntroductionOn: html
 			html listItem: [html anchor url: 'http://plugins.jquery.com/project/bubbletip'; with: 'jQuery bubbletip home'].
 			]
 		].
+	html paragraph: [
+		html text: 'you might also consider '.
+		html anchor url: 'http://onehackoranother.com/projects/jquery/tipsy/'; with: 'tipsy'.
+		html text: ' which apparently is used by Twitter, Github and Bitbucket. Anyone creating a Seaside JQWidget for tipsy?']
+	
+	 
