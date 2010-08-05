@@ -1,3 +1,3 @@
 accessing
 method
-	'buildMenu'
+	^ 'buildMenu'
