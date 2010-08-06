@@ -5,7 +5,7 @@ setEventToCreate: newEventData
 		start: newEventData first asDateAndTime;
 		end: newEventData second asDateAndTime;
 		allDay: newEventData third = 'true'.
-	eventEditor := StafferEventEditor new.
+	eventEditor := JQFullCalendarEventEditor  new.
 	^ eventEditor
 		event: aNewEvent;
 		events: self session events;
