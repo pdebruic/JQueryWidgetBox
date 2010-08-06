@@ -3,10 +3,10 @@ updateRoot: anHtmlRoot
 	super updateRoot: anHtmlRoot.
 
 	"development"
-"	anHtmlRoot javascript url: JQWidgetBoxDevelopmentLibrary / #uistarsJs.
-	anHtmlRoot stylesheet url: JQWidgetBoxDeploymentLibrary / #uistarCss.
+"	anHtmlRoot javascript url: JQWidgetBoxDevelopmentLibrary / #jqueryuistarsJs.
+	anHtmlRoot stylesheet url: JQWidgetBoxDeploymentLibrary / #jqueryuistarsCss.
 "	
 	
 	"deployment"
-	anHtmlRoot javascript url: JQWidgetBoxDeploymentLibrary / #uistarsminJs.
-	anHtmlRoot stylesheet url: JQWidgetBoxDeploymentLibrary / #uistarsminCss.
+	anHtmlRoot javascript url: JQWidgetBoxDeploymentLibrary / #jqueryuistarsminJs.
+	anHtmlRoot stylesheet url: JQWidgetBoxDeploymentLibrary / #jqueryuistarsminCss.

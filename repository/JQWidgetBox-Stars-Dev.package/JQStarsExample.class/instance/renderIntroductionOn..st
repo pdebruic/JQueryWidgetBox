@@ -27,7 +27,5 @@ renderIntroductionOn: html
 			html listItem: [html anchor url: 'http://orkans-tmp.22web.net/star_rating/index.html?#download'; with: 'Download'].
 			].
 		html strong: 'Note: '.
-		html text: 'I incorporated changes outlined in '.
-		html anchor url: 'http://plugins.jquery.com/node/14060'; with: 'this post'.
-		html text: ' to make Stars compatible with JQuery UI 1.8 '
-	].
+		html text: 'Updated 6th August 2010 to incorporate Stars version 3.0.1. Caution: the libraries were renamed'
+	]
