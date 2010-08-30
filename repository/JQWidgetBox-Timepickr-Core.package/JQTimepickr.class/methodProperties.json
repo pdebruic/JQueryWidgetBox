@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"top:" : "JohnMcKeon 8/29/2010 16:36",
+		"convention:" : "JohnMcKeon 8/29/2010 16:35",
+		"hoverIntent:" : "JohnMcKeon 8/30/2010 17:50",
+		"rangeEvery5Min" : "jmck 8/29/2010 06:34",
+		"select:" : "JohnMcKeon 8/29/2010 16:38",
+		"trigger:" : "JohnMcKeon 8/29/2010 16:42",
+		"val:" : "JohnMcKeon 8/30/2010 17:36",
+		"format:" : "JohnMcKeon 8/29/2010 16:44",
+		"handle:" : "JohnMcKeon 8/30/2010 16:41",
+		"suffix:" : "JohnMcKeon 8/30/2010 17:30",
+		"left:" : "JohnMcKeon 8/29/2010 16:37",
+		"animSpeed:" : "JohnMcKeon 8/29/2010 16:36",
+		"rangeMin:" : "JohnMcKeon 8/30/2010 17:32",
+		"method" : "jmck 8/26/2010 22:19",
+		"rangeEvery15Min" : "JohnMcKeon 8/29/2010 09:41",
+		"resetOnBlur:" : "JohnMcKeon 8/30/2010 17:33",
+		"prefix:" : "JohnMcKeon 8/30/2010 17:21"
+	},
+	"class" : { }
+}
