@@ -7,6 +7,6 @@ initialize
 			register: each
 			asApplicationAt: 'jquery-widgets/' , each shortName.
 		application
-			addLibrary: JQDevelopmentLibrary;
-			addLibrary: JQUiDevelopmentLibrary;
+			addLibrary: JQDeploymentLibrary;
+			addLibrary: JQUiDeploymentLibrary;
 			addLibrary: JQWidgetBoxDeploymentLibrary ]
