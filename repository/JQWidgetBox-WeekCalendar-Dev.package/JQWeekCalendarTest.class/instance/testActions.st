@@ -6,4 +6,4 @@ testActions
 
 	self
 		assert: ((self jQuery: 'weekcalendar') weekCalendar firstDayOfWeek: 1)
-		equals: self function, '("weekcalendar").weekCalendar({firstDayOfWeek:1})'.		
+		equals: self function, '("weekcalendar").weekCalendar({"firstDayOfWeek":1})'.		
