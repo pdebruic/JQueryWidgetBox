@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "JQWidgetBoxWidgetTest",
-	"category" : "JQWidgetBox-Timepickr-Dev-Tests",
+	"category" : "JQWidgetBox-TimePickr-Dev-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
