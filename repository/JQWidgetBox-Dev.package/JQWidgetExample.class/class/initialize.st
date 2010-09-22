@@ -3,7 +3,10 @@ initialize
 	| application |
 	self subclasses do: 
 		[ :each | 
-		application := WAAdmin 
+			(each class selectors includes: #initialize) ifTrue: [^each perform: #initialize].
+			
+		 "use generic registration"
+		 application := WAAdmin 
 			register: each
 			asApplicationAt: 'jquery-widgets/' , each shortName.
 		application
