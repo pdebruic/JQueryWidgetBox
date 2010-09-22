@@ -1,3 +1,3 @@
 accessing
 shortName
-	^ 'MbMenu'
+	^ 'mbMenu'
