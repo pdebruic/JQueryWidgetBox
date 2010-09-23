@@ -7,15 +7,30 @@ jqueryweekcalendarCss
 	font-family: arial, helvetica;
 }
 
-.wc-nav {
+.wc-toolbar {
 	padding: 1em;
-	text-align: right;	
+  font-size:0.8em;
 }
 
-.wc-nav button {
-	margin: 0 0.5em;	
+.wc-toolbar .wc-nav
+{
+  float:left;
 }
- 
+
+.wc-toolbar .wc-display{
+  float: right;
+}
+
+.wc-toolbar button {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.wc-toolbar .wc-title{
+  text-align:center;
+  padding:0;
+  margin:0;
+}
 
 .wc-container table {
 	border-collapse: collapse;
@@ -26,11 +41,14 @@ jqueryweekcalendarCss
 	padding: 0;
 }
 
-.wc-header {
+.wc-header{
 	background: #eee;
 	border-top: 1px solid #aaa;
 	border-bottom: 1px solid #aaa;
+}
+.wc-header table{
 	width: 100%;
+  table-layout:fixed;
 }
 
 .wc-header .wc-time-column-header {
@@ -45,10 +63,12 @@ jqueryweekcalendarCss
 	text-align: center;
 	padding: 0.4em;
 }
-.wc-header td {
-	background-color: #eee;	
-}
 
+.wc-header .wc-user-header{
+	text-align: center;
+	padding: 0.4em 0;
+  overflow:hidden;
+}
 .wc-grid-timeslot-header {
 	width: 6%;
 	background: #eee;	
@@ -70,29 +90,59 @@ table.wc-time-slots {
 	width: 100%;
 	table-layout: fixed;
 	cursor: default;
+  overflow:hidden;
 }
 
 .wc-day-column {
 	width: 13.5%;
-	border-left: 1px solid #ddd;	
 	overflow: visible;
 	vertical-align: top;
 }
+.wc-scrollable-grid .wc-day-column-last,
+.wc-scrollable-grid .wc-day-column-middle{border-left: 1px dashed #ddd;}
+.wc-scrollable-grid .wc-day-column-first{border-left: 3px double #ddd;}
 
 .wc-day-column-inner {
 	width: 100%;
 	position:relative;	
 }
 
-.wc-time-slot-wrapper {
+.wc-no-height-wrapper{
 	position:relative;	
-	height: 1px;
-	top: 1px;
+  overflow: visible;
+	height: 0px;
+}
+
+.wc-time-slot-wrapper {
+/*	top: 3px;*/
+}
+.wc-oddeven-wrapper .wc-full-height-column{
+/*	top: 2px; */
+  /* Modern Browsers */ opacity: 0.4;
+  /* IE 8 */ -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+  /* IE 5-7 */ filter: alpha(opacity=40);
+  /* Netscape */ -moz-opacity: 0.4;
+  /* Safari 1 */ -khtml-opacity: 0.4;
+}
+.wc-freebusy-wrapper .wc-freebusy{
+/*	top: 1px;*/
+  /* Modern Browsers */ opacity: 0.4;
+  /* IE 8 */ -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+  /* IE 5-7 */ filter: alpha(opacity=40);
+  /* Netscape */ -moz-opacity: 0.4;
+  /* Safari 1 */ -khtml-opacity: 0.4;
 }
 
 .wc-time-slots {
 	position: absolute;	
 	width: 100%;
+}
+
+.wc-column-odd{}
+.wc-column-even{background-color:#ddddbe;}
+.wc-full-height-column{
+	display:block;
+/*  width:100%;*/
 }
 
 
@@ -108,6 +158,7 @@ table.wc-time-slots {
 
 .wc-hour-header {
 	text-align: right;
+	border-top:none !important;
 }
 
 .wc-hour-end, .wc-hour-header {
@@ -139,21 +190,22 @@ table.wc-time-slots {
 	padding-right: 10px;	
 }
 
-.wc-container-header .wc-today  {
+.wc-header .wc-today  {
 	font-weight: bold;
 }
 
-.wc-container-time-slots .wc-today {
+.wc-time-slots .wc-today {
 	background-color: #ffffcc;	
 }
 
 
 .wc-cal-event {
 	background-color: #68a1e5;	
-	filter:alpha(opacity=80);
-	-moz-opacity:0.8;
-	-khtml-opacity: 0.8;
-	opacity: 0.8;
+  /* Modern Browsers */ opacity: 0.8;
+  /* IE 8 */ -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  /* IE 5-7 */ filter: alpha(opacity=80);
+  /* Netscape */ -moz-opacity: 0.8;
+  /* Safari 1 */ -khtml-opacity: 0.8;
 	position: absolute;	
 	text-align: center;
 	overflow: hidden;
@@ -164,9 +216,8 @@ table.wc-time-slots {
 }
 
 
-.wc-cal-event div {
-	padding: 0 5px;
-	
+.wc-cal-event.ui-resizable-resizing {
+	cursor: s-resize;
 }
 
 .wc-cal-event .wc-time {
@@ -187,11 +238,31 @@ table.wc-time-slots {
 
 .wc-container .ui-resizable-s {
 	height: 10px;
-	bottom: -8px;	
+	line-height: 10px;
+	bottom: -2px;
+	font-size: .75em;
 }
 
 
 .wc-container .ui-draggable-dragging {
    z-index: 1000;
 }
+
+.free-busy-free{}
+.free-busy-busy{
+  background:url("./libs/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png") repeat scroll 50% 50% #666666;
+}
+
+/* IE6 hacks */
+* html .wc-no-height-wrapper{position:absolute;}
+* html .wc-time-slot-wrapper{top:3px;}
+* html .wc-grid-row-oddeven{top:2px;}
+* html .wc-grid-row-freebusy{top:1px;}
+
+/* IE7 hacks */
+*:first-child+html .wc-no-height-wrapper{position:relative;}
+*:first-child+html .wc-time-slot-wrapper{top:3px;}
+*:first-child+html .wc-grid-row-oddeven{top:2px;}
+*:first-child+html .wc-grid-row-freebusy{top:1px;}
+*:first-child+html .wc-time-slots .wc-today{/* due to rendering issues, no background */background:none;}
 '
