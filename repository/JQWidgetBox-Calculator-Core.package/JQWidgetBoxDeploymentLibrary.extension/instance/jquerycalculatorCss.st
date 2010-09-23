@@ -1,6 +1,6 @@
 *jqwidgetbox-calculator-core
 jquerycalculatorCss
-	^ '/* Main style sheet for jQuery Calculator v1.2.2 */
+	^ '/* Main style sheet for jQuery Calculator v1.3.0 */
 div.hasCalculator, span.hasCalculator {
 	position: relative;
 }
@@ -12,7 +12,7 @@ img.calculator-trigger {
 	margin: 2px;
 	vertical-align: middle;
 }
-#calculator-div {
+.calculator-popup {
 	display: none;
 	z-index: 10;
 	margin: 0;
@@ -54,8 +54,10 @@ img.calculator-trigger {
 }
 .calculator-prompt {
 	clear: both;
-	width: 100%;
 	text-align: center;
+}
+.calculator-prompt.ui-widget-header {
+	margin: 2px;
 }
 .calculator-result {
 	clear: both;
@@ -119,7 +121,7 @@ img.calculator-trigger {
 .calculator-mem-empty {
 	color: #888;
 }
-.calculator-trig {
+.calculator-row .calculator-trig {
 	font-size: 70%;
 }
 @-moz-document url-prefix() { // Firefox
@@ -136,11 +138,16 @@ img.calculator-trigger {
 	width: 16px;
 	height: 14px;
 	position: absolute;
-	left: -2px;
-	top: -2px;
+	left: -8px;
+	top: -8px;
 	color: #000;
-	background-color: #ccc;
+	background-color: #fff;
+	border: 1px solid #888;
 	font-size: 80%;
+}
+.calculator-angle .calculator-keystroke, .calculator-base .calculator-keystroke, .calculator-trig .calculator-keystroke {
+	top: -10px;
+	font-size: 95%;
 }
 .calculator-keyname {
 	width: 22px;
