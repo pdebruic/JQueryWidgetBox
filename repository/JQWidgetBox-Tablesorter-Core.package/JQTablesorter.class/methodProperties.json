@@ -1,12 +1,16 @@
 {
 	"instance" : {
-		"cssDesc:" : "mpo 7/19/2010 13:03",
-		"cancelSelection:" : "mpo 7/19/2010 12:49",
-		"cssAsc:" : "mpo 7/19/2010 13:02",
-		"method" : "mpo 7/19/2010 09:54",
-		"cssHeader:" : "mpo 7/19/2010 13:04",
+		"widthFixed:" : "JohanBrichau 2/7/2010 15:31",
 		"debug:" : "mpo 7/19/2010 13:08",
-		"sortMultiSortKey:" : "mpo 7/19/2010 13:28"
+		"textExtraction:" : "JohanBrichau 2/7/2010 15:30",
+		"cssAsc:" : "JohanBrichau 2/7/2010 15:21",
+		"cssDesc:" : "JohanBrichau 2/7/2010 15:22",
+		"sortList:" : "JohanBrichau 2/20/2010 08:59",
+		"cssHeader:" : "mpo 7/19/2010 13:04",
+		"method" : "mpo 7/19/2010 09:54",
+		"sortMultiSortKey:" : "mpo 7/19/2010 13:28",
+		"cancelSelection:" : "mpo 7/19/2010 12:49",
+		"sortForce:" : "JohanBrichau 2/7/2010 15:27"
 	},
 	"class" : { }
 }
