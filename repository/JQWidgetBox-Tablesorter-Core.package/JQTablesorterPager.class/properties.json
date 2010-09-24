@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "JQWidget",
-	"category" : "JQWidgetBox-TableSorter-Core",
+	"category" : "JQWidgetBox-Tablesorter-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
