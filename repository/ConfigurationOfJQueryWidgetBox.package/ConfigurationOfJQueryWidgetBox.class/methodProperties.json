@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"version14:" : "DaleHenrichs 9/22/2010 12:12",
+		"baseline10:" : "BartGauquie 2/14/2010 13:07",
+		"version13:" : "dkh 11/10/2010 15:33",
+		"version11:" : "NickAger 4/19/2010 09:41",
+		"version15:" : "tbn 9/23/2010 12:56",
+		"baseline14:" : "obi 9/6/2010 20:29",
+		"initExamples" : "tbn 1/14/2010 14:06",
+		"version10:" : "NickAger 8/5/2010 10:27",
+		"version12:" : "tbn 5/19/2010 23:43",
+		"baseline11:" : "NickAger 4/19/2010 12:32",
+		"baseline15:" : "tbn 9/22/2010 15:31",
+		"baseline13:" : "obi 9/6/2010 20:06",
+		"project" : "tbn 1/12/2010 14:29"
+	},
+	"class" : {
+		"isMetacelloConfig" : "tbn 1/12/2010 14:35",
+		"project" : "tbn 1/12/2010 14:35",
+		"ensureMetacello" : "tbn 1/12/2010 14:36",
+		"loadLatestVersion" : "tbn 1/14/2010 11:14",
+		"lastMetacelloVersionLoad" : "tbn 1/12/2010 14:35",
+		"metacelloVersion:loads:" : "tbn 1/12/2010 14:36",
+		"bootstrapPackage:from:" : "tbn 1/12/2010 14:36"
+	}
+}
