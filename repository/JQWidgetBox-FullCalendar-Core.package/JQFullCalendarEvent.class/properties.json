@@ -8,12 +8,11 @@
 	"instvars" : [
 		"id",
 		"title",
-		"start",
-		"end",
 		"allDay",
 		"url",
 		"cssClassName",
-		"editable"
+		"editable",
+		"timespan"
 	],
 	"name" : "JQFullCalendarEvent",
 	"type" : "normal"

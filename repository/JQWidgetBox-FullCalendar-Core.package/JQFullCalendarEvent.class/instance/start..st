@@ -1,3 +1,3 @@
 accessing
 start: aDateAndTime
-	start := aDateAndTime
+	timespan start: aDateAndTime

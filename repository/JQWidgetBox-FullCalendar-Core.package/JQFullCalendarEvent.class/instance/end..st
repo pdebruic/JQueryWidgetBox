@@ -1,3 +1,3 @@
 accessing
 end: aDateAndTime
-	end := aDateAndTime
+	timespan duration: (aDateAndTime - timespan start)
