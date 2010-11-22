@@ -50,7 +50,7 @@ version15: spec
 			package: 'JQWidgetBox-Timepickr-Dev' with: 'JQWidgetBox-Timepickr-Dev-tbn.4';
 			package: 'JQWidgetBox-Tablesorter-Core' with: 'JQWidgetBox-Tablesorter-Core-MartinPolak.4';										
 			package: 'JQWidgetBox-Tablesorter-Dev' with: 'JQWidgetBox-Tablesorter-Dev-MartinPolak.2';
-			package: 'JQWidgetBox-FullCalendar-Core' with: 'JQWidgetBox-FullCalendar-Core-PaulDeBruicker.12';										
+			package: 'JQWidgetBox-FullCalendar-Core' with: 'JQWidgetBox-FullCalendar-Core-PaulDeBruicker.16';										
 			package: 'JQWidgetBox-FullCalendar-Dev' with: 'JQWidgetBox-FullCalendar-Dev-Example-PaulDeBruicker.10'.																																							
 																																									
 	]
