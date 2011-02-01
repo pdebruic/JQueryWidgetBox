@@ -1,0 +1,3 @@
+*jqwidgetbox-registeredinterval-core
+jqregisteredIntervalminJs
+	^ '(function(a){a.fn.registeredInterval=function(c){var d={timeout:15000};var b=this;return this.each(function(){var e;if(c){a.extend(d,c)}if(d.func&&d.delay){e=setInterval(d.func,d.delay);b.data("intervalId",e);if(d.timeout>0){setTimeout(function(){clearInterval(e)},d.timeout)}}else{e=b.data("intervalId");clearInterval(e)}})}})(jQuery);'

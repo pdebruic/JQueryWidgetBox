@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-RegisteredInterval-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQRegisteredInterval",
+	"type" : "normal"
+}
