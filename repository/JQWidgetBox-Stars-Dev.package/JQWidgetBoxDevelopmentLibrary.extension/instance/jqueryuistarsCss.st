@@ -26,7 +26,7 @@ jqueryuistarsCss
   width: 16px;
   height: 15px;
   display: block;
-  background: url(jquery.ui.stars.gif) no-repeat 0 0;
+  background: url(jqueryuistars.gif) no-repeat 0 0;
 }
 .ui-stars-star a {
   background-position: 0 -32px;
