@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "<historical>",
-	"super" : "Object",
+	"super" : "GRObject",
 	"category" : "JQWidgetBox-FullCalendar-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
