@@ -14,7 +14,8 @@
 		"sortable",
 		"selectorOrOneArgBlock",
 		"formatBlock",
-		"parseBlock"
+		"parseBlock",
+		"classes"
 	],
 	"name" : "JQGridColumn",
 	"type" : "normal"
