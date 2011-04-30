@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"example5Value"
+	],
 	"name" : "JQStarsExample",
 	"type" : "normal"
 }

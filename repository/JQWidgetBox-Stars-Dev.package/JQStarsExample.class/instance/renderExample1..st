@@ -3,7 +3,7 @@ renderExample1: html
 	| optionDescriptions |
 	optionDescriptions := #('Very poor' 'Poor' 'Not that bad' 'Fair' 'Average' 'Almost good' 'Good' 'Very good' 'Excellent' 'Perfect').
 	
-	html heading level4; with: 'Example with radio buttons'.
+	html heading level4; with: '1) Example with radio buttons'.
 	
 	html div style: 'float:left'; with: [
 		html strong: 'Before'.

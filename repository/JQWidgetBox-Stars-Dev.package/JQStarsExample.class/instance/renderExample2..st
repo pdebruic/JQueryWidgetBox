@@ -4,7 +4,7 @@ renderExample2: html
 	optionDescriptions := #('Very poor' 'Poor' 'Not that bad' 'Fair' 'Average' 'Almost good' 'Good' 'Very good' 'Excellent' 'Perfect').
 	
 	html div style:'float:none'; with: [html break; break].
-	html heading level5; with: 'set the star value via the button'.
+	html heading level4; with: '2) Set the star value via the button'.
 	
 	html div
 		style: 'float:left;'; 

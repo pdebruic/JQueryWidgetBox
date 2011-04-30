@@ -4,7 +4,7 @@ renderExample3: html
 	optionDescriptions := #('Very poor' 'Not that bad' 'Average' 'Good' 'Perfect').
 	
 	html div style:'float:none'; with: [html break; break; break].
-	html heading level4; with: 'Example with select options:'.
+	html heading level4; with: '3) Example with select options:'.
 
 	html div style: 'float:left'; with: [
 		html strong: 'Before'.
