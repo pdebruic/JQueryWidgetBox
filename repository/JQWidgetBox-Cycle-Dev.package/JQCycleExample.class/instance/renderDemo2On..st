@@ -7,7 +7,7 @@ renderDemo2On: html
 		id: #images;
 		script: (html jQuery getJson
          		url: 'http://api.flickr.com/services/feeds/photos_public.gne?tags=borough%20market&format=json&jsoncallback=?';
-         		onComplete: '$.each(arguments[0].items, function(index, each) {
+         		onSuccess: '$.each(arguments[0].items, function(index, each) {
             		$("<img/>").attr("src", each.media.m).attr("title", each.title).appendTo("#images");});', 
 				(((html jQuery: #images) after:[ :r | r html: '<ul id="nav"></ul>']) cycle
 					 fx: 'turnDown';

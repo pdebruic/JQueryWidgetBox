@@ -6,7 +6,7 @@ renderDemo1On: html
 		id: #images;
 		script: (html jQuery getJson
          		url: 'http://api.flickr.com/services/feeds/photos_public.gne?tags=smalltalk&format=json&jsoncallback=?';
-         		onComplete: '$.each(arguments[0].items, function(index, each) {
+         		onSuccess: '$.each(arguments[0].items, function(index, each) {
             		$("<img/>").attr("src", each.media.m).attr("title", each.title).appendTo("#images");});', 
 				((html jQuery: #images) cycle fx: 'fade'; timeout: 2000; delay: -1000) greaseString).
 
