@@ -10,17 +10,19 @@ baseline20: spec
 			
 		"Widgets"
 		spec				
-			package: 'JQWidgetBox-ShadowAnimation-Core' with: [ spec requires: 'JQWidgetBox-Core' ].			 						
+			package: 'JQWidgetBox-ShadowAnimation-Core' with: [ spec requires: 'JQWidgetBox-Core' ];
+			package: 'JQWidgetBox-Farbtastic-Core' with: [ spec requires: 'JQWidgetBox-Core' ].	 						
 		"Widgets Tests and Examples"			
 		spec
-			package: 'JQWidgetBox-ShadowAnimation-Dev' with: [ spec requires: 'JQWidgetBox-Dev' ].
+			package: 'JQWidgetBox-ShadowAnimation-Dev' with: [ spec requires: 'JQWidgetBox-Dev' ];
+			package: 'JQWidgetBox-Farbtastic-Dev' with: [ spec requires: 'JQWidgetBox-Dev' ].
 			 								
 		
 		"Widgets"
-		spec group: 'Widgets' with: #('JQWidgetBox-ShadowAnimation-Core').
+		spec group: 'Widgets' with: #('JQWidgetBox-ShadowAnimation-Core'  'JQWidgetBox-Farbtastic-Core').
 					
 		"Widgets Tests and Examples"
-		spec group: 'Widgets-Dev' with: #('JQWidgetBox-ShadowAnimation-Dev'). 
+		spec group: 'Widgets-Dev' with: #('JQWidgetBox-ShadowAnimation-Dev'  'JQWidgetBox-Farbtastic-Dev'). 
 		].	
  
 

@@ -16,5 +16,5 @@ version20: spec
 			package: 'JQWidgetBox-Dev' with: 'JQWidgetBox-Dev-tbn.8'	.
 				
 		spec 
-			project: 'Seaside30' with: '3.0.3'	 																																								
+			project: 'Seaside30' with: '3.0.5'	 																																								
 	]
