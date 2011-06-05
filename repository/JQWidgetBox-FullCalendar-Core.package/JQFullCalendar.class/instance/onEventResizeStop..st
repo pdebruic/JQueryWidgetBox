@@ -1,4 +1,4 @@
-callbacks
+event-dragging-resizing-callbacks
 onEventResizeStop: aCallback
 	"
 Triggered when event resizing stops.

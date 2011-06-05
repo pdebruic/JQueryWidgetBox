@@ -1,4 +1,4 @@
-callbacks
+event-dragging-resizing-callbacks
 onEventDragStop: aCallback
 	"
 Triggered when event dragging stops.

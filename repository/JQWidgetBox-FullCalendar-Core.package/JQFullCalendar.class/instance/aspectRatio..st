@@ -1,4 +1,4 @@
-options
+general-display-options
 aspectRatio: aNumber
 	"Determines the width-to-height aspect ratio of the calendar.
 

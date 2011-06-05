@@ -1,4 +1,4 @@
-actions
+views-actions
 getView
 	"Returns the View Object for the current view.
 

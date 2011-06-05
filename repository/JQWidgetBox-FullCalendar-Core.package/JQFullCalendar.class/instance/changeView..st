@@ -1,4 +1,4 @@
-actions
+views-actions
 changeView: aString
 	"
 

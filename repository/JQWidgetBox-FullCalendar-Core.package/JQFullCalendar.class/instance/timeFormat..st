@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 timeFormat: anObject
 	"
 Determines the time-text that will be displayed on each event.

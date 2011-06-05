@@ -1,4 +1,4 @@
-options
+general-display-options
 isRTL: aBoolean
 	"Displays the calendar in right-to-left mode.
 

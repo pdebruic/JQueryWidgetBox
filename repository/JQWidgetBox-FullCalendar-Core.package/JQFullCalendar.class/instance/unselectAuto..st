@@ -1,4 +1,4 @@
-options
+selection-options
 unselectAuto: aBoolean
 	"
 Whether clicking elsewhere on the page will cause the current selection to be cleared.

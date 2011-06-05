@@ -1,4 +1,4 @@
-callbacks
+general-display-callbacks
 onWindowResize: aCallback
 	"
 Triggered after the calendar's dimensions have been changed due to the browser window being resized.

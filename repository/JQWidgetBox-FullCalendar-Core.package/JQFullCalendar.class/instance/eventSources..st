@@ -1,4 +1,4 @@
-options
+event-data-options
 eventSources: anArray
 	| x |
 	anArray ifNil: [ x := #() ].	"

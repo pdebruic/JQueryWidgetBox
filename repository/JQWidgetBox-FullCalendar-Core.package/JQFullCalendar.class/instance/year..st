@@ -1,4 +1,4 @@
-options
+current-date-options
 year: anInteger
 	"The initial year when the calendar loads.
 

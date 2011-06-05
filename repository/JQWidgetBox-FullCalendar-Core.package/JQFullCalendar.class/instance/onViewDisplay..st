@@ -1,4 +1,4 @@
-callbacks
+general-display-callbacks
 onViewDisplay: aCallback
 	"
 Triggered when the calendar loads and every time a different date-range is displayed.

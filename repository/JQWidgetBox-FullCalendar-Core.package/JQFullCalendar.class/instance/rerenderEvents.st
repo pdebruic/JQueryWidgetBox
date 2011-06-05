@@ -1,4 +1,4 @@
-actions
+event-rendering-actions
 rerenderEvents
 	"
 Rerenders all events on the calendar.

@@ -1,4 +1,4 @@
-callbacks
+clicking-hovering-callbacks
 onEventMouseOut: aCallback
 	"
 Triggered when the user mouses out of an event.

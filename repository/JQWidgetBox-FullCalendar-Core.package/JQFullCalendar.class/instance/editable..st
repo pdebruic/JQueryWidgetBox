@@ -1,4 +1,4 @@
-options
+event-dragging-resizing-options
 editable: aBoolean
 	"
 Determines whether the events on the calendar can be modified.

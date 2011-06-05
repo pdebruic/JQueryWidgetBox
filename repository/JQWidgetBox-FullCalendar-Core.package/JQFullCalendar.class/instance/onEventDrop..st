@@ -1,4 +1,4 @@
-callbacks
+event-dragging-resizing-callbacks
 onEventDrop: aCallback
 	"
 Triggered when dragging stops and the event has moved to a different day/time.

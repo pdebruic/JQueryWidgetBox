@@ -1,4 +1,4 @@
-options
+agenda-options
 minTime: anInteger
 	"
 Determines the first hour/time that will be displayed, even when the scrollbars have been scrolled all the way up.

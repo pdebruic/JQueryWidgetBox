@@ -1,4 +1,4 @@
-options
+event-data-options
 lazyFecthing: aBoolean
 	"
 Determines when event fetching should occur.

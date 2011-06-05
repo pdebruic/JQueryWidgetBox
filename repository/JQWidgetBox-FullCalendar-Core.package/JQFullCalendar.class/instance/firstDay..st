@@ -1,4 +1,4 @@
-options
+general-display-options
 firstDay: anInteger
 	"The day that each week begins.
 

@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 monthNames: anArray
 	"
 Full names of months.

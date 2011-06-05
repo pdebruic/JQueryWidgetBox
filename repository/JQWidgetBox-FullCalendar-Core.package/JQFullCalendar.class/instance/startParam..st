@@ -1,4 +1,4 @@
-options
+event-data-options
 startParam: aString
 	"
 A GET parameter of this name will be inserted into each JSON feed's URL.

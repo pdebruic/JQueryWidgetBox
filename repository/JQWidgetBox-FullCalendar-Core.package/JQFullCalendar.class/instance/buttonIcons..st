@@ -1,4 +1,4 @@
-options
+general-display-options
 buttonIcons: anObject
 	"Determines which theme icons appear on the header buttons.
 

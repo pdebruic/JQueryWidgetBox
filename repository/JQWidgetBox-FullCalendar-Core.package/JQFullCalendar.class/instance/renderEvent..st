@@ -1,4 +1,4 @@
-actions
+event-rendering-actions
 renderEvent: aJQFullCalendarEvent
 	"
 Renders a new event on the calendar.

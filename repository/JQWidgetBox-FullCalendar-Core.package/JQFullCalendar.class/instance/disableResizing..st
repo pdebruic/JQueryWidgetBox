@@ -1,4 +1,4 @@
-options
+event-dragging-resizing-options
 disableResizing: aBoolean
 	"
 Disables all event resizing, even when events are editable.

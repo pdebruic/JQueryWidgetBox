@@ -1,4 +1,4 @@
-options
+event-data-options
 allDayDefault: aBoolean
 	"
 Determines the default value for each Event Object's allDay property, when it is unspecified.

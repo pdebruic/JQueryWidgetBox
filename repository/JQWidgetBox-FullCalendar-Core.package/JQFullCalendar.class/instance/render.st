@@ -1,4 +1,4 @@
-actions
+general-display-actions
 render
 	"
 Immediately forces the calendar to render and/or readjusts its size.

@@ -1,4 +1,4 @@
-callbacks
+selection-callbacks
 onSelect: aCallback
 	"
 A callback that will fire after a selection is made.

@@ -1,4 +1,4 @@
-options
+general-display-options
 header: aDictionary
 	"Defines the buttons and title at the top of the calendar.
 

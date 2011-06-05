@@ -1,7 +1,7 @@
-options
+event-data-options
 eventsJsonRest: aJSONFeedPath
 	"
-THIS DOES NOT WORK  
+THIS DOES NOT WORK  see collectionOfEvents: or eventsJsonGet:
 
 JSON:
 A URL of a JSON feed that the calendar will fetch Event Objects from.

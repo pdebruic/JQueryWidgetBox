@@ -1,3 +1,3 @@
 accessing
 end
-	^ timespan end 
+	^ self timespan end 

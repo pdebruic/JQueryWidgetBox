@@ -1,4 +1,4 @@
-options
+general-display-options
 contentHeight: aNumberOfPixels
 	"Will make the calendar's content area a pixel height.
 

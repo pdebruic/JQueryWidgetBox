@@ -1,4 +1,4 @@
-actions
+general-display-actions
 destroy
 	"
 Restores the element to the state before FullCalendar was initialized.

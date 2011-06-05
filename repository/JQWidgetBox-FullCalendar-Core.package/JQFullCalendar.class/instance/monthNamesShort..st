@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 monthNamesShort: anArray
 	"
 Abbreviated names of months.

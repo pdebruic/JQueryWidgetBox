@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 dayNames: anArray
 	"
 Full names of days-of-week.

@@ -1,4 +1,4 @@
-options
+views-options
 defaultView: aString
 	"|The initial view when the calendar loads.
 

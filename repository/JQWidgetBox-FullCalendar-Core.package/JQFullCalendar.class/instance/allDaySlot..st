@@ -1,4 +1,4 @@
-options
+agenda-options
 allDaySlot: aBoolean
 	"
 Determines if the 'all-day' slot is displayed at the top of the calendar.

@@ -1,4 +1,4 @@
-options
+event-dragging-resizing-options
 dragRevertDuration: anInteger
 	"
 Time it takes for an event to revert to its original position after an unsuccessful drag.

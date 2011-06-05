@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 dayNamesShort: anArray
 	"
 Abbreviated names of days-of-week.

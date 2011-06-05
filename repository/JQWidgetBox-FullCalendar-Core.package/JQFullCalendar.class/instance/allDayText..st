@@ -1,4 +1,4 @@
-options
+agenda-options
 allDayText: aString
 	"
 The text titling the all-day slot at the top of the calendar.

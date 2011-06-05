@@ -1,4 +1,4 @@
-options
+agenda-options
 maxTime: anInteger
 	"
 Determines the last hour/time (exclusively) that will be displayed, even when the scrollbars have been scrolled all the way down.

@@ -1,4 +1,4 @@
-options
+agenda-options
 firstHour: anInteger
 	"
 Determines the first hour that will be visible in the scroll pane.

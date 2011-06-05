@@ -1,4 +1,4 @@
-options
+event-dragging-resizing-options
 dragOpacity: aFloat
 	"
 The opacity of an event while it is being dragged.

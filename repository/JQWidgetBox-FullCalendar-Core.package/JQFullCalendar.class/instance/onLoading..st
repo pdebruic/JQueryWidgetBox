@@ -1,4 +1,4 @@
-callbacks
+event-data-callbacks
 onLoading: aCallback
 	"
 Triggered when event fetching starts/stops.

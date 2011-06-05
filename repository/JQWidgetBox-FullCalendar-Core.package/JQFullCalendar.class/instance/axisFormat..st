@@ -1,4 +1,4 @@
-options
+agenda-options
 axisFormat: aString
 	"
 Determines the time-text that will be displayed on the vertical axis of the agenda views.

@@ -1,4 +1,4 @@
-options
+selection-options
 selectHelper: aBoolean
 	"
 Whether to draw a placeholder event while the user is dragging.

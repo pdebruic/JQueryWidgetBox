@@ -1,4 +1,4 @@
-options
+selection-options
 selectable: aBoolean
 	"
 Allows a user to highlight multiple days or timeslots by clicking and dragging.

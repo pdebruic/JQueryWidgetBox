@@ -1,4 +1,4 @@
-actions
+current-date-actions
 today
 	"
 Moves the calendar to the current date.

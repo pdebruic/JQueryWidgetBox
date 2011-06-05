@@ -1,4 +1,4 @@
-options
+current-date-options
 date: anInteger
 	"The initial date-of-month when the calendar loads.
 

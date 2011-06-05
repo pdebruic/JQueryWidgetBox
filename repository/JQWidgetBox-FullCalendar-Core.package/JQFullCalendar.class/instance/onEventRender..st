@@ -1,4 +1,4 @@
-callbacks
+event-rendering-callbacks
 onEventRender: aCallback
 	"
 Triggered while an event is being rendered.

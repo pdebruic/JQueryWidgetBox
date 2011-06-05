@@ -1,4 +1,4 @@
-callbacks
+clicking-hovering-callbacks
 onDayClick: aCallback
 	"
 Triggered when the user clicks on a day.

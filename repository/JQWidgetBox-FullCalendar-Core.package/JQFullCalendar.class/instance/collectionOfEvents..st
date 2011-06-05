@@ -1,4 +1,4 @@
-options
+event-data-options
 collectionOfEvents: aCollectionOfEvents
 	"
 An array of Event Objects that will be displayed on the calendar.

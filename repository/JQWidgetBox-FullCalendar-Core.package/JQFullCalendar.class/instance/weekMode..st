@@ -1,4 +1,4 @@
-options
+general-display-options
 weekMode: aString
 	"Determines the number of weeks displayed in a month view. Also determines each week's height.
 

@@ -1,4 +1,4 @@
-options
+general-display-options
 theme: aBoolean
 	"Enables/disables use of jQuery UI theming.
 

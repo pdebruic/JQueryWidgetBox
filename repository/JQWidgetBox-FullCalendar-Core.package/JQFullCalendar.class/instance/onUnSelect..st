@@ -1,4 +1,4 @@
-callbacks
+selection-callbacks
 onUnSelect: aCallback
 	"
 A callback that will fire when the current selection is cleared.

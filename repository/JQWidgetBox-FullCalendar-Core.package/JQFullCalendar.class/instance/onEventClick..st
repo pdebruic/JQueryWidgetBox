@@ -1,4 +1,4 @@
-callbacks
+clicking-hovering-callbacks
 onEventClick: aCallback
 	"
 Triggered when the user clicks an event.

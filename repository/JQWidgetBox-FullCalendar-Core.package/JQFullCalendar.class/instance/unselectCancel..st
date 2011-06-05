@@ -1,4 +1,4 @@
-options
+selection-options
 unselectCancel: aBoolean
 	"
 A way to specify elements that will ignore the unselectAuto  option.

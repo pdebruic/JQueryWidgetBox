@@ -1,4 +1,4 @@
-options
+event-data-options
 eventsJsonGet: aTwoArgumentBlock
 	"
 aTwoArgumentBlock should accept a start and end DateAndTime and return a collection of JQFullCalendarEvents

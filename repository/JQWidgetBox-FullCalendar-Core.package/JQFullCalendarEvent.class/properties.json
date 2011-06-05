@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "<historical>",
+	"commentStamp" : "PaulDeBruicker 6/5/2011 16:38",
 	"super" : "GRObject",
 	"category" : "JQWidgetBox-FullCalendar-Core",
 	"classinstvars" : [ ],
@@ -12,7 +12,11 @@
 		"url",
 		"cssClassName",
 		"editable",
-		"timespan"
+		"timespan",
+		"color",
+		"backgroundColor",
+		"borderColor",
+		"textColor"
 	],
 	"name" : "JQFullCalendarEvent",
 	"type" : "normal"

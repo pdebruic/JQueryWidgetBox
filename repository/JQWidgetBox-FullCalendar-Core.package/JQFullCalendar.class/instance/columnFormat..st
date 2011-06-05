@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 columnFormat: anObject
 	"
 Determines the text that will be displayed on the calendar's column headings.

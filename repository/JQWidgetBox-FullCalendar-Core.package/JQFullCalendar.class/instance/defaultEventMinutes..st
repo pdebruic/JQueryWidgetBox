@@ -1,4 +1,4 @@
-options
+agenda-options
 defaultEventMinutes: anInteger
 	"
 Determines the length (in minutes) an event appears to be when it has an unspecified end date.

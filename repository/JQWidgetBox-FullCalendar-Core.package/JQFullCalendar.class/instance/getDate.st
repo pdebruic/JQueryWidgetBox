@@ -1,4 +1,4 @@
-actions
+current-date-actions
 getDate
 	"
 Returns a Date object for the current date of the calendar.

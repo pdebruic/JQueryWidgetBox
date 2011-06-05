@@ -1,4 +1,4 @@
-callbacks
+clicking-hovering-callbacks
 onEventMouseOver: aCallback
 	"
 Triggered when the user mouses over an event.

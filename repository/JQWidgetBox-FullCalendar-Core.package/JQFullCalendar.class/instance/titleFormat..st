@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 titleFormat: anObject
 	"
 Determines the text that will be displayed in the header's title.

@@ -1,4 +1,4 @@
-options
+general-display-options
 height: aNumberOfPixels
 	"Will make the entire calendar (including header) a pixel height.
 

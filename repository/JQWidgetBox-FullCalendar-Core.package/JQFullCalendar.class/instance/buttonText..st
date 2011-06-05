@@ -1,4 +1,4 @@
-options
+text-time-customization-options
 buttonText: anObject
 	"
 Text that will be displayed on buttons of the header.
