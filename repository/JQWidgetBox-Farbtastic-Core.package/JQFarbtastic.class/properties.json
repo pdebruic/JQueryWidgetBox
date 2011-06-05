@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Farbtastic-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQFarbtastic",
+	"type" : "normal"
+}
