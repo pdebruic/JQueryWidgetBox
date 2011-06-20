@@ -11,6 +11,7 @@ version22: spec
 		spec 
 			package: 'JQWidgetBox-Cycle-Dev' with: 'JQWidgetBox-Cycle-Dev-NickAger.5';
 			package: 'JQWidgetBox-FullCalendar-Core' with: 'JQWidgetBox-FullCalendar-Core-PaulDeBruicker.25';
+			package: 'JQWidgetBox-FullCalendar-Dev' with: 'JQWidgetBox-FullCalendar-Dev-PaulDeBruicker.2';
 			package: 'JQWidgetBox-Farbtastic-Core' with: 'JQWidgetBox-Farbtastic-Core-PaulDeBruicker.1';
 			package: 'JQWidgetBox-Farbtastic-Dev' with: 'JQWidgetBox-Farbtastic-Dev-PaulDeBruicker.1';
 			yourself. 
