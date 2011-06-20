@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"renderCalendar:" : "PaulDeBruicker 6/25/2010 15:33",
+		"renderContentOn:" : "PaulDeBruicker 6/25/2010 15:33",
+		"setEventToCreate:" : "PaulDeBruicker 8/6/2010 14:05",
+		"events" : "PaulDeBruicker 6/25/2010 15:30",
+		"renderEventEditorDialog:" : "PaulDeBruicker 6/25/2010 15:33",
+		"header" : "PaulDeBruicker 6/25/2010 15:33",
+		"setEventToEdit:" : "PaulDeBruicker 6/25/2010 15:40",
+		"updateEventStart:" : "PaulDeBruicker 6/25/2010 15:33",
+		"events:" : "PaulDeBruicker 6/25/2010 15:30",
+		"updateEventEnd:" : "PaulDeBruicker 6/25/2010 15:33"
+	},
+	"class" : { }
+}
