@@ -21,7 +21,7 @@ renderExample5: html
 					selected: example5Value; 
 					with: [ :group |
 						optionDescriptions doWithIndex: [ :each :index |
-							html radioButton
-								group: group;
-					 			value: index; title: each ] ] ] ].
+							group radioButton 
+								value: index;
+								title: index ] ] ] ].
 	html break; break.

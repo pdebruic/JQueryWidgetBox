@@ -154,7 +154,7 @@ $.widget(''ui.stars'', {
 			o.checked = i;
 			o.value = o.id2val[i];
 			o.title = o.id2title[i];
-			self.$value.attr({disabled: o.disabled ? ''disabled'' : '''', value: o.value});
+			self.$value.attr({disabled: o.disabled, value: o.value});
 
 			fillTo(i, false);
 			self._disableCancel();

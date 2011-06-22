@@ -4,8 +4,8 @@ updateRoot: anHtmlRoot
 
 	"development"
 "	anHtmlRoot javascript url: JQWidgetBoxDevelopmentLibrary / #jqueryuistarsJs.
-	anHtmlRoot stylesheet url: JQWidgetBoxDeploymentLibrary / #jqueryuistarsCss.
-"	
+	anHtmlRoot stylesheet url: JQWidgetBoxDevelopmentLibrary / #jqueryuistarsCss."
+	
 	
 	"deployment"
 	anHtmlRoot javascript url: JQWidgetBoxDeploymentLibrary / #jqueryuistarsminJs.
