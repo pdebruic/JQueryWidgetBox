@@ -144,7 +144,6 @@ baseline10: spec
 				spec
 					className: 'ConfigurationOfSeaside30';
 					file: 'ConfigurationOfSeaside30';
-					version: '3.0.0-alpha5.5-baseline';
 					repository: 'http://www.squeaksource.com/MetacelloRepository' ].											
 	].	
  

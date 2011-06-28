@@ -34,14 +34,6 @@ baseline13: spec
 		
 		"Seaside 3.0...should rename this to JQuery, methinks:)"	
 		spec
-			project: 'Seaside30' 
-			with: [
-				spec
-					className: 'ConfigurationOfSeaside30';
-					file: 'ConfigurationOfSeaside30';
-					version: '3.0.0-alpha5.15-baseline';
-					loads: #( 'JQuery-UI' );
-					repository: 'http://www.squeaksource.com/MetacelloRepository' ];
 			project: 'JQuery Tests' copyFrom: 'Seaside30' with: [
 				spec
 					loads: #( 'JQuery-Tests-UI' ).];

@@ -24,18 +24,7 @@ baseline11: spec
 		spec 			
 			group: 'Dev' with: #('JQWidgetBox-Dev').
 		"Widgets Tests and Examples"
-		spec group: 'Widgets-Dev' with: #('JQWidgetBox-Stars-Dev'). 
-		
-		"Seaside 3.0"	
-		spec
-			project: 'Seaside30' 
-			with: [
-				spec
-					className: 'ConfigurationOfSeaside30';
-					file: 'ConfigurationOfSeaside30';
-					version: '3.0.0-alpha5.11-baseline';
-					repository: 'http://www.squeaksource.com/MetacelloRepository' ].											
-	].	
+		spec group: 'Widgets-Dev' with: #('JQWidgetBox-Stars-Dev') ]	
  
 		
 	
