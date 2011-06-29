@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PaulDeBruicker 6/29/2011 13:43",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-TimeSlider-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sliderOptionsDict"
+	],
+	"name" : "JQTimeSlider",
+	"type" : "normal"
+}

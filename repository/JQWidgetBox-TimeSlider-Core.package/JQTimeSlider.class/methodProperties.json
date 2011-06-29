@@ -1,0 +1,31 @@
+{
+	"instance" : {
+		"onStart:" : "PaulDeBruicker 6/26/2011 18:20",
+		"rangeMax:" : "PaulDeBruicker 6/26/2011 18:19",
+		"animate:" : "PaulDeBruicker 6/26/2011 18:21",
+		"initialize" : "PaulDeBruicker 6/26/2011 13:32",
+		"onStop:" : "PaulDeBruicker 6/26/2011 18:21",
+		"start:" : "PaulDeBruicker 6/29/2011 13:49",
+		"max:" : "PaulDeBruicker 6/26/2011 18:16",
+		"valueFromTime:" : "PaulDeBruicker 6/26/2011 18:58",
+		"onChange:" : "PaulDeBruicker 6/26/2011 18:20",
+		"step:" : "PaulDeBruicker 6/26/2011 18:24",
+		"method" : "PaulDeBruicker 6/25/2011 10:33",
+		"sliderOptions" : "PaulDeBruicker 6/26/2011 13:34",
+		"endTime:" : "PaulDeBruicker 6/26/2011 16:02",
+		"onSlide:" : "PaulDeBruicker 6/26/2011 18:20",
+		"setValueFrom:" : "PaulDeBruicker 6/26/2011 17:22",
+		"disabled:" : "PaulDeBruicker 6/26/2011 18:21",
+		"submitButton:" : "PaulDeBruicker 6/25/2011 10:37",
+		"errorMessage:" : "PaulDeBruicker 6/25/2011 10:35",
+		"range:" : "PaulDeBruicker 6/26/2011 18:19",
+		"start:end:" : "PaulDeBruicker 6/29/2011 13:21",
+		"values:" : "PaulDeBruicker 6/26/2011 16:59",
+		"min:" : "PaulDeBruicker 6/26/2011 18:22",
+		"startTime:" : "PaulDeBruicker 6/26/2011 16:02",
+		"clickSubmit:" : "PaulDeBruicker 6/25/2011 10:38",
+		"orientation:" : "PaulDeBruicker 6/26/2011 13:27",
+		"value:" : "PaulDeBruicker 6/26/2011 13:28"
+	},
+	"class" : { }
+}
