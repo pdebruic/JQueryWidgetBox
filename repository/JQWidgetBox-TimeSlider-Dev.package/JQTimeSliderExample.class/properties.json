@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PaulDeBruicker 6/29/2011 13:03",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-TimeSlider-Dev",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startTime",
+		"endTime"
+	],
+	"name" : "JQTimeSliderExample",
+	"type" : "normal"
+}
