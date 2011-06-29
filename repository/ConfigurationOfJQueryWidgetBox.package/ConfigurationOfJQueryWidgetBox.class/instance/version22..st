@@ -17,4 +17,4 @@ version22: spec
 			yourself. 
 			
 		"update Seaside version"
-		spec project: 'Seaside' with: #stable ] 
+		spec project: 'Seaside30' with: #stable ] 
