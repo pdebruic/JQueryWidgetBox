@@ -19,13 +19,13 @@ baseline15: spec
 			package: 'JQWidgetBox-MbMenu-Dev' with: [ spec requires: 'JQWidgetBox-Dev' ];
 			package: 'JQWidgetBox-Timepickr-Dev' with: [ spec requires: 'JQWidgetBox-Dev' ];
 			package: 'JQWidgetBox-Tablesorter-Dev' with: [ spec requires: 'JQWidgetBox-Dev' ];
-			package: 'JQWidgetBox-FullCalendar-Dev' with: [ spec requires: 'JQWidgetBox-Dev' ].									
+			package: 'JQWidgetBox-FullCalendar-Dev-Example' with: [ spec requires: 'JQWidgetBox-Dev' ].									
 		
 		"Widgets"
 		spec group: 'Widgets' with: #('JQWidgetBox-MbMenu-Core' 'JQWidgetBox-Timepickr-Core' 'JQWidgetBox-Tablesorter-Core' 'JQWidgetBox-FullCalendar-Core').
 					
 		"Widgets Tests and Examples"
-		spec group: 'Widgets-Dev' with: #('JQWidgetBox-MbMenu-Dev' 'JQWidgetBox-Timepickr-Dev' 'JQWidgetBox-Tablesorter-Dev'  'JQWidgetBox-FullCalendar-Dev'). 
+		spec group: 'Widgets-Dev' with: #('JQWidgetBox-MbMenu-Dev' 'JQWidgetBox-Timepickr-Dev' 'JQWidgetBox-Tablesorter-Dev'  'JQWidgetBox-FullCalendar-Dev-Example'). 
 		].	
  
 

@@ -9,5 +9,6 @@ version18: spec
 		
 		"Grab latest Seaside for Pharo 1.2"
 		spec 
+			project: 'JQuery Tests' with: '3.0.3';	 																																				
 			project: 'Seaside30' with: '3.0.3'	 																																				
 	]
