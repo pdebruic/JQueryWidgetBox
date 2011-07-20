@@ -13,7 +13,7 @@ baseline24: spec
 				spec
 					className: 'ConfigurationOfSeaside30';
 					versionString: #'stable';
-					loads: #('Base');
+					loads: #('Base' 'JQuery-UI');
 					repository: 'http://www.squeaksource.com/MetacelloRepository' ];										
 			project: 'JQuery Tests' copyFrom: 'Seaside30' with: [
 				spec
