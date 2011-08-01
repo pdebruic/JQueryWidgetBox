@@ -1,0 +1,38 @@
+{
+	"instance" : {
+		"baseline15:" : "dkh 7/19/2011 18:32",
+		"version10:" : "NickAger 8/5/2010 10:27",
+		"version21:" : "NickAger 4/30/2011 16:24",
+		"version24:" : "dkh 7/19/2011 22:05",
+		"baseline24:" : "dkh 7/20/2011 10:17",
+		"baseline10:" : "NickAger 6/28/2011 16:37",
+		"version17:" : "NickAger 11/22/2010 14:05",
+		"baseline13:" : "NickAger 6/28/2011 16:40",
+		"initExamples" : "tbn 1/14/2010 14:06",
+		"version12:" : "tbn 5/19/2010 23:43",
+		"project" : "tbn 1/12/2010 14:29",
+		"version23:" : "dkh 7/19/2011 21:04",
+		"version19:" : "NickAger 2/7/2011 17:52",
+		"version14:" : "DaleHenrichs 9/22/2010 12:12",
+		"baseline14:" : "obi 9/6/2010 20:29",
+		"version20:" : "dkh 7/19/2011 20:58",
+		"version16:" : "tbn 11/16/2010 15:50",
+		"version13:" : "dkh 11/10/2010 15:33",
+		"baseline20:" : "dkh 7/19/2011 21:03",
+		"version11:" : "NickAger 4/19/2010 09:41",
+		"version22:" : "NickAger 6/29/2011 15:27",
+		"version18:" : "dkh 7/19/2011 20:49",
+		"version15:" : "dkh 7/19/2011 20:50",
+		"baseline11:" : "NickAger 6/28/2011 16:38"
+	},
+	"class" : {
+		"isMetacelloConfig" : "tbn 1/12/2010 14:35",
+		"project" : "tbn 1/12/2010 14:35",
+		"ensureMetacello" : "tbn 1/12/2010 14:36",
+		"lastMetacelloVersionLoad" : "tbn 1/12/2010 14:35",
+		"loadLatestVersion" : "tbn 1/14/2010 11:14",
+		"metacelloVersion:loads:" : "tbn 1/12/2010 14:36",
+		"load" : "tbn 11/16/2010 15:50",
+		"bootstrapPackage:from:" : "tbn 1/12/2010 14:36"
+	}
+}
