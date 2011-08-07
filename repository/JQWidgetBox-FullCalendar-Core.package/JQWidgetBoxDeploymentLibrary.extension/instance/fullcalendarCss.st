@@ -448,7 +448,7 @@ table.fc-border-separate {
 	opacity: 0.3;
 	filter: alpha(opacity=30); /* for IE */
 	/* opacity with small font can sometimes look too faded
-	   might want to set the "color" property instead
+	   might want to set the ''color'' property instead
 	   making day-numbers bold also fixes the problem */
 	}
 	
@@ -617,4 +617,5 @@ table.fc-border-separate {
 	_overflow: hidden;
 	}
 	
-	'
+	
+'

@@ -1,5 +1,4 @@
 accessing
 start: aDateAndTime
-|timespanEnd |
-timespanEnd :=self end.
-	timespan:=Timeperiod from: aDateAndTime to: timespanEnd .
+
+	timespan:=Timespan starting: aDateAndTime ending: self end.
