@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 8/16/2011 20:52",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Dynatree-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQDynatree",
+	"type" : "normal"
+}
