@@ -11,3 +11,7 @@ testOptions
 	self
 		assert: ((self jQuery: 'ul.tree') dynatree imagePath: 'x')
 		equals: self function , '("ul.tree").dynatree({"imagePath":"x"})'.	
+			
+	self
+		assert: ((self jQuery: 'ul.tree') dynatree autoFocus: true)
+		equals: self function , '("ul.tree").dynatree({"autoFocus":true})'.			
