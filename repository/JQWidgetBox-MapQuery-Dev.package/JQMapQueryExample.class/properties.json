@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "GastonDallOglio 9/12/2011 20:38",
+	"super" : "JQWidgetExample",
+	"category" : "JQWidgetBox-MapQuery-Dev-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"idMap",
+		"idLayerManager",
+		"idOverviewMap",
+		"idFeatureInfo",
+		"idLayerControl",
+		"idZoomButtons",
+		"idZoomSlider",
+		"idPopup",
+		"idMousePosition"
+	],
+	"name" : "JQMapQueryExample",
+	"type" : "normal"
+}
