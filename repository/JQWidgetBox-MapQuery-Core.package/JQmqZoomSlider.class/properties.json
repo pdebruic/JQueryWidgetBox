@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "GastonDallOglio 9/6/2011 22:30",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-MapQuery-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQmqZoomSlider",
+	"type" : "normal"
+}

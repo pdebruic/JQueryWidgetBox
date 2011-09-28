@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "GastonDallOglio 9/6/2011 18:28",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-MapQuery-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQmqOverviewMap",
+	"type" : "normal"
+}
