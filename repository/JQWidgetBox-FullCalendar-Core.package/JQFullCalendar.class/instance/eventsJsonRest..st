@@ -1,4 +1,4 @@
-event-data-options
+event-data-callbacks
 eventsJsonRest: aJSONFeedPath
 	"
 THIS DOES NOT WORK  see collectionOfEvents: or eventsJsonGet:
