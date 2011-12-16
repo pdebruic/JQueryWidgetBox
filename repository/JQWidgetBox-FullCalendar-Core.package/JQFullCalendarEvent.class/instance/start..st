@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 start: aDateAndTime
 	| timespanEnd |
 	timespanEnd := self end.
