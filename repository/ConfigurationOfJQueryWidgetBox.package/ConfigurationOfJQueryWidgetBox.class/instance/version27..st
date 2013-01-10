@@ -8,7 +8,7 @@ version27: spec
 			spec author: 'GastonDallOglio'.
 			spec description: 'added MapQuery, RegisteredInterval and SelectMenu.'.
 			spec
-				project: 'Seaside30' with: #stable;
+				project: 'Seaside30' with: '3.0.7.1';
 				project: 'JQuery Tests' with: #stable.
 			spec
 				package: 'JQWidgetBox-Core' with: 'JQWidgetBox-Core-tbn.2';
@@ -43,8 +43,8 @@ version27: spec
 				package: 'JQWidgetBox-FontEffect-Dev' with: 'JQWidgetBox-FontEffect-Dev-tbn.2';
 				package: 'JQWidgetBox-FormExample-Core' with: 'JQWidgetBox-FormExample-Core-tbn.2';
 				package: 'JQWidgetBox-FormExample-Dev' with: 'JQWidgetBox-FormExample-Dev-NickAger.3';
-				package: 'JQWidgetBox-FullCalendar-Core' with: 'JQWidgetBox-FullCalendar-Core-PaulDeBruicker.31';
-				package: 'JQWidgetBox-FullCalendar-Dev' with: 'JQWidgetBox-FullCalendar-Dev-PaulDeBruicker.3';
+				package: 'JQWidgetBox-FullCalendar-Core' with: 'JQWidgetBox-FullCalendar-Core-PaulDeBruicker.32';
+				package: 'JQWidgetBox-FullCalendar-Dev' with: 'JQWidgetBox-FullCalendar-Dev-PaulDeBruicker.4';
 				package: 'JQWidgetBox-Growl-Core' with: 'JQWidgetBox-Growl-Core-JohnToohey.2';
 				package: 'JQWidgetBox-Growl-Dev' with: 'JQWidgetBox-Growl-Dev-JohnToohey.1';
 				package: 'JQWidgetBox-HoverIntent-Core' with: 'JQWidgetBox-HoverIntent-Core-JohanBrichau.2';
@@ -59,7 +59,7 @@ version27: spec
 				package: 'JQWidgetBox-ImageDropDown-Dev' with: 'JQWidgetBox-ImageDropDown-Dev-tbn.3';
 				package: 'JQWidgetBox-InnerFade-Core' with: 'JQWidgetBox-InnerFade-Core-tbn.1';
 				package: 'JQWidgetBox-InnerFade-Dev' with: 'JQWidgetBox-InnerFade-Dev-tbn.3';
-				package: 'JQWidgetBox-MapQuery-Core' with: 'JQWidgetBox-MapQuery-Core-GastonDallOglio.4';										
+				package: 'JQWidgetBox-MapQuery-Core' with: 'JQWidgetBox-MapQuery-Core-GastonDallOglio.4';
 				package: 'JQWidgetBox-MapQuery-Dev' with: 'JQWidgetBox-MapQuery-Dev-GastonDallOglio.6';
 				package: 'JQWidgetBox-MbMenu-Core' with: 'JQWidgetBox-MbMenu-Core-AndreiChis.18';
 				package: 'JQWidgetBox-MbMenu-Dev' with: 'JQWidgetBox-MbMenu-Dev-tbn.16';
@@ -67,9 +67,9 @@ version27: spec
 				package: 'JQWidgetBox-PageFold-Dev' with: 'JQWidgetBox-PageFold-Dev-tbn.3';
 				package: 'JQWidgetBox-Reflection-Core' with: 'JQWidgetBox-Reflection-Core-tbn.1';
 				package: 'JQWidgetBox-Reflection-Dev' with: 'JQWidgetBox-Reflection-Dev-tbn.2';
-				package: 'JQWidgetBox-RegisteredInterval-Core' with: 'JQWidgetBox-RegisteredInterval-Core-PaulDeBruicker.1';													
+				package: 'JQWidgetBox-RegisteredInterval-Core' with: 'JQWidgetBox-RegisteredInterval-Core-PaulDeBruicker.1';
 				package: 'JQWidgetBox-RegisteredInterval-Example' with: 'JQWidgetBox-RegisteredInterval-Example-PaulDeBruicker.2';
-				package: 'JQWidgetBox-SelectMenu-Core' with: 'JQWidgetBox-SelectMenu-Core-PaulDeBruicker.5';													
+				package: 'JQWidgetBox-SelectMenu-Core' with: 'JQWidgetBox-SelectMenu-Core-PaulDeBruicker.5';
 				package: 'JQWidgetBox-ShadowAnimation-Core' with: 'JQWidgetBox-ShadowAnimation-Core-tbn.1';
 				package: 'JQWidgetBox-ShadowAnimation-Dev' with: 'JQWidgetBox-ShadowAnimation-Dev-tbn.1';
 				package: 'JQWidgetBox-Sheet-Core' with: 'JQWidgetBox-Sheet-Core-tbn.1';
