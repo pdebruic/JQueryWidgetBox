@@ -10,6 +10,6 @@ app:=	(WAAdmin register: self asApplicationAt: 'jquery-widgets/' , self shortNam
 (app filters detect: #isExceptionFilter ) configuration at: #exceptionHandler put: WADebugErrorHandler .
 	app 
 		preferenceAt: #sessionClass put: JQFullCalendarExampleSession;
-				addLibrary: JQDevelopmentLibrary;
-			addLibrary: JQUiDevelopmentLibrary;
+		
+			
 			addLibrary: JQWidgetBoxDeploymentLibrary

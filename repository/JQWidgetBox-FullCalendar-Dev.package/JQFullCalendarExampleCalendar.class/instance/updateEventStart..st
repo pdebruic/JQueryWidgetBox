@@ -1,9 +1,12 @@
 as yet unclassified
 updateEventStart: eventData
-	| anEvent |
-	anEvent := (self session events select: [ :each | each id = eventData first ]) first copy.
-	anEvent start: anEvent start + eventData second asNumber days + eventData third asNumber minutes.
-	anEvent end: anEvent end + eventData second asNumber days + eventData third asNumber minutes.
+	|oldEvent newEvent |
+	
 
-	self session events remove: (self session events select: [ :each | each id = eventData first ]) first.
-	self session events add: anEvent 
+	oldEvent:=(self session events detect: [ :each | each id = eventData first ]) .
+	newEvent := oldEvent copy.
+	newEvent start: newEvent start + eventData second asNumber days + eventData third asNumber minutes.
+	newEvent end: newEvent end + eventData second asNumber days + eventData third asNumber minutes.
+
+	self session events remove: oldEvent.
+	self session events add: newEvent 
