@@ -1,11 +1,10 @@
 as yet unclassified
 renderCalendar: html
-	
 	self session events do: [ :each | each id: html nextId ].
-	(html div)
+	html div
 		id: 'calendar';
 		script:
-				((html jQuery this fullCalendar)
+				(html jQuery this fullCalendar
 						theme: true;
 						selectable: true;
 						selectHelper: true;
@@ -16,7 +15,7 @@ renderCalendar: html
 						onEventClick:
 								(html jQuery id: 'eventEditor') dialog open
 										,
-											((html jQuery ajax)
+											(html jQuery ajax
 												callback: [ :anEventId | self setEventToEdit: anEventId ] json: (JSStream on: 'calEvent.id');
 												script: [ :s | s << (s jQuery id: 'event-editor') replaceWith: [ :h | h render: eventEditor ] ]);
 						onEventDrop:
@@ -30,7 +29,7 @@ renderCalendar: html
 						onSelect:
 								(html jQuery id: 'eventEditor') dialog open
 										,
-											((html jQuery ajax)
+											(html jQuery ajax
 												callback: [ :newEventData | self setEventToCreate: newEventData ]
 													json: (JSStream on: 'new Array(startDate,endDate,allDay)');
-												script: [ :s | s << (s jQuery id: 'event-editor') replaceWith: [ :h | h render: eventEditor ] ]))
+												script: [ :s | s << (s jQuery id: 'event-editor') replaceWith: [ :h | h render: eventEditor ] ]))	", (self renderUpdateCalendarScript: html)"
