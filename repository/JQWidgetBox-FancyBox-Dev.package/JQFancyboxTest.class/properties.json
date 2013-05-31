@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetBoxWidgetTest",
+	"category" : "JQWidgetBox-FancyBox-Dev-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callback"
+	],
+	"name" : "JQFancyboxTest",
+	"type" : "normal"
+}
