@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidgetBoxWidgetTest",
+	"category" : "JQWidgetBox-HoverIntent-Dev-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQHoverIntentTest",
+	"type" : "normal"
+}
