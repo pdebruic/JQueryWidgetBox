@@ -17,6 +17,6 @@ testCreateJson
 	jqGridRowContent jqGridColumns: jqGridColumns.
 	
 	self 
-		assert: '{"id":"anId","cell":["aSelector1","aSelector2"]}'
+		assert: '{"cell":["aSelector1","aSelector2"],"id":"anId"}'
 		equals: 	
 			jqGridRowContent asJson.
