@@ -143,6 +143,7 @@ baseline10: spec
 			with: [
 				spec
 					className: 'ConfigurationOfSeaside30';
+					loads: #('Base');
 					file: 'ConfigurationOfSeaside30';
 					repository: 'http://www.squeaksource.com/MetacelloRepository' ].											
 	].	
