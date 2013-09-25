@@ -15,7 +15,7 @@ baseline28: spec
 							spec
 								className: 'ConfigurationOfSeaside3';
 								versionString: #stable;
-								loads: #('Default');
+								loads: #('JQuery-Tests-Core');
 								repository: 'http://www.smalltalkhub.com/mc/Seaside/MetacelloConfigurations/main' ];
 				project: 'JQuery Tests' copyFrom: 'Seaside3' with: [ spec loads: #('JQuery-Tests-UI') ].
 			spec
