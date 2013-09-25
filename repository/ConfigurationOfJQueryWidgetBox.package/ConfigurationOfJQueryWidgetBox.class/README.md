@@ -1,0 +1,1 @@
+Configuration for http://smalltalkhub.com/#!/~Seaside/JQueryWidgetBox
