@@ -35,13 +35,15 @@
 		"version15:" : "dkh 7/19/2011 20:50"
 	},
 	"class" : {
-		"isMetacelloConfig" : "tbn 1/12/2010 14:35",
-		"project" : "tbn 1/12/2010 14:35",
-		"ensureMetacello" : "tbn 1/12/2010 14:36",
-		"lastMetacelloVersionLoad" : "tbn 1/12/2010 14:35",
-		"loadLatestVersion" : "tbn 1/14/2010 11:14",
-		"metacelloVersion:loads:" : "tbn 1/12/2010 14:36",
 		"load" : "tbn 11/16/2010 15:50",
-		"bootstrapPackage:from:" : "tbn 1/12/2010 14:36"
+		"lastMetacelloVersionLoad" : "tbn 1/12/2010 14:35",
+		"metacelloVersion:loads:" : "tbn 1/12/2010 14:36",
+		"ensureMetacello" : "tbn 1/12/2010 14:36",
+		"bootstrapPackage:from:" : "tbn 1/12/2010 14:36",
+		"isMetacelloConfig" : "tbn 1/12/2010 14:35",
+		"jqueryWidgetBoxTutorialOn:" : "TorstenBergmann 9/25/2013 16:47",
+		"loadLatestVersion" : "tbn 1/14/2010 11:14",
+		"documentation" : "TorstenBergmann 9/25/2013 16:45",
+		"project" : "tbn 1/12/2010 14:35"
 	}
 }
