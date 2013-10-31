@@ -8,7 +8,7 @@ version26: spec
 			spec author: 'TorstenBergmann'.
 			spec description: 'updated Farbtastic, added dynatree.'.
 			spec
-				project: 'Seaside30' with: #stable;
+				project: 'Seaside3' with: #stable;
 				project: 'JQuery Tests' with: #stable.
 			spec
 				package: 'JQWidgetBox-Core' with: 'JQWidgetBox-Core-tbn.2';

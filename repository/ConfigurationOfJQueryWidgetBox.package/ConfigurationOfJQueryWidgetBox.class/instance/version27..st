@@ -8,7 +8,7 @@ version27: spec
 			spec author: 'GastonDallOglio'.
 			spec description: 'added MapQuery, RegisteredInterval and SelectMenu.'.
 			spec
-				project: 'Seaside30' with: '3.0.7.1';
+				project: 'Seaside3' with: '3.0.7.1';
 				project: 'JQuery Tests' with: #stable.
 			spec
 				package: 'JQWidgetBox-Core' with: 'JQWidgetBox-Core-tbn.2';

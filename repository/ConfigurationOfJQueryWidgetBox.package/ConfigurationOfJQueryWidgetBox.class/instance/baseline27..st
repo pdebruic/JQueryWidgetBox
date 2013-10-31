@@ -9,10 +9,10 @@ baseline27: spec
 			spec repository: 'http://smalltalkhub.com/mc/Seaside/JQueryWidgetBox/main'.
 			spec postLoadDoIt: #initExamples.
 			spec
-				project: 'Seaside30'
+				project: 'Seaside3'
 					with: [ 
 							spec
-								className: 'ConfigurationOfSeaside30';
+								className: 'ConfigurationOfSeaside3';
 								versionString: #stable;
 								loads: #('Base' 'JQuery-UI');
 								repository: 'http://www.squeaksource.com/MetacelloRepository' ];

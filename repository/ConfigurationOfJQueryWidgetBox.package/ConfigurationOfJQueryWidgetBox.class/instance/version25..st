@@ -8,7 +8,7 @@ version25: spec
 			spec author: 'PaulDeBruicker'.
 			spec description: 'updated JQFullCalendar and JQFullCalendarExample.'.
 			spec
-				project: 'Seaside30' with: #stable;
+				project: 'Seaside3' with: #stable;
 				project: 'JQuery Tests' with: #stable.
 			spec
 				package: 'JQWidgetBox-Core' with: 'JQWidgetBox-Core-tbn.2';
