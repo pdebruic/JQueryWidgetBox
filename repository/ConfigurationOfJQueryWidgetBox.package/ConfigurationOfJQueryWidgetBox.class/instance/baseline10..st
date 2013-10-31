@@ -8,7 +8,7 @@ baseline10: spec
 			spec description: 'Initial baseline for JQueryWidgetBox'.
 			spec repository: 'http://www.squeaksource.com/JQueryWidgetBox'.
 			spec postLoadDoIt: #initExamples.
-			spec package: 'JQWidgetBox-Core' with: [ spec requires: 'Seaside30' ].	"Core packages"
+			spec package: 'JQWidgetBox-Core' with: [ spec requires: 'Seaside3' ].	"Core packages"
 			spec
 				package: 'JQWidgetBox-AccessibleNewsSlider-Core' with: [ spec requires: 'JQWidgetBox-Core' ];
 				package: 'JQWidgetBox-AlphaNumeric-Core' with: [ spec requires: 'JQWidgetBox-Core' ];

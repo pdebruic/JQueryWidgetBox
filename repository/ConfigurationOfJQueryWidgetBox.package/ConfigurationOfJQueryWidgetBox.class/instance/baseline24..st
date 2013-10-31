@@ -16,9 +16,9 @@ baseline24: spec
 								versionString: #stable;
 								loads: #('Base' 'JQuery-UI');
 								repository: 'http://www.squeaksource.com/MetacelloRepository' ];
-				project: 'JQuery Tests' copyFrom: 'Seaside30' with: [ spec loads: #('JQuery-Tests-UI') ].
+				project: 'JQuery Tests' copyFrom: 'Seaside3' with: [ spec loads: #('JQuery-Tests-UI') ].
 			spec
-				package: 'JQWidgetBox-Core' with: [ spec requires: 'Seaside30' ];
+				package: 'JQWidgetBox-Core' with: [ spec requires: 'Seaside3' ];
 				package: 'JQWidgetBox-Dev' with: [ spec requires: #('JQWidgetBox-Core' 'JQuery Tests') ].
 			spec
 				package: 'JQWidgetBox-AccessibleNewsSlider-Core' with: [ spec requires: 'JQWidgetBox-Core' ];

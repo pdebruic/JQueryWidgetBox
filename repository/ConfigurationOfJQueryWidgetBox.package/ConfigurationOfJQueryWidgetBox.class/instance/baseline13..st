@@ -34,7 +34,7 @@ baseline13: spec
 		
 		"Seaside 3.0...should rename this to JQuery, methinks:)"	
 		spec
-			project: 'JQuery Tests' copyFrom: 'Seaside30' with: [
+			project: 'JQuery Tests' copyFrom: 'Seaside3' with: [
 				spec
 					loads: #( 'JQuery-Tests-UI' ).];
 			yourself ].	
