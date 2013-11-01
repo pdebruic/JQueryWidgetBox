@@ -86,6 +86,6 @@ baseline10: spec
 				with: [ 
 					spec
 						className: 'ConfigurationOfSeaside3';
-						loads: #('Base');
+						loads: #('JQuery-UI');
 						file: 'ConfigurationOfSeaside3';
 						repository: 'http://www.squeaksource.com/MetacelloRepository' ] ]
