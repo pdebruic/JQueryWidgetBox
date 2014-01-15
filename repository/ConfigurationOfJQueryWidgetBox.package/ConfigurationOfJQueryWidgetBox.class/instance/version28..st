@@ -6,9 +6,9 @@ version28: spec
 		do: [ 
 			spec blessing: #development.
 			spec author: 'Torsten Bergmann'.
-			spec description: 'Switch to Seaside 3 on STHub (Seaside 3.0.8)'.
+			spec description: 'Switch to Seaside 3 on STHub (Seaside 3.1.0)'.
 			spec
-				project: 'Seaside3' with: '3.0.8';
+				project: 'Seaside3' with: '3.1.0';
 				project: 'JQuery Tests' with: #stable.
 			spec
 				package: 'JQWidgetBox-Core' with: 'JQWidgetBox-Core-tbn.2';
