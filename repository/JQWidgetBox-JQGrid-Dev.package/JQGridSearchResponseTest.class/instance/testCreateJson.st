@@ -25,6 +25,6 @@ testCreateJson
 	jqGridSearchResponse jqGridColumns: jqGridColumns.
 	
 	self 
-		assert: '{"rows":[{"cell":["aSelector1","aSelector2"],"id":"anId"}],"total":10,"records":1800,"page":12}'
+		assert: '{"rows": [{"cell": ["aSelector1", "aSelector2"], "id": "anId"}], "total": 10, "records": 1800, "page": 12}'
 		equals: 	
 			jqGridSearchResponse asJson.
