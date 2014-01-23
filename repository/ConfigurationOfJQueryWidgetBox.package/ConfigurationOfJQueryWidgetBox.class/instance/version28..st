@@ -32,13 +32,13 @@ version28: spec
 				package: 'JQWidgetBox-Dynatree-Core' with: 'JQWidgetBox-Dynatree-Core-tbn.4';
 				package: 'JQWidgetBox-Dynatree-Dev' with: 'JQWidgetBox-Dynatree-Dev-tbn.4';
 				package: 'JQWidgetBox-EpiClock-Core' with: 'JQWidgetBox-EpiClock-Core-JohnToohey.3';
-				package: 'JQWidgetBox-EpiClock-Dev' with: 'JQWidgetBox-EpiClock-Dev-tbn.2';
+				package: 'JQWidgetBox-EpiClock-Dev' with: 'JQWidgetBox-EpiClock-Dev-TorstenBergmann.3';
 				package: 'JQWidgetBox-FancyBox-Core' with: 'JQWidgetBox-FancyBox-Core-FrancoisStephany.3';
 				package: 'JQWidgetBox-FancyBox-Dev' with: 'JQWidgetBox-FancyBox-Dev-tbn.2';
 				package: 'JQWidgetBox-Farbtastic-Core' with: 'JQWidgetBox-Farbtastic-Core-tbn.2';
 				package: 'JQWidgetBox-Farbtastic-Dev' with: 'JQWidgetBox-Farbtastic-Dev-tbn.2';
 				package: 'JQWidgetBox-Fisheye-Core' with: 'JQWidgetBox-Fisheye-Core-tbn.1';
-				package: 'JQWidgetBox-Fisheye-Dev' with: 'JQWidgetBox-Fisheye-Dev-tbn.3';
+				package: 'JQWidgetBox-Fisheye-Dev' with: 'JQWidgetBox-Fisheye-Dev-TorstenBergmann.4';
 				package: 'JQWidgetBox-FontEffect-Core' with: 'JQWidgetBox-FontEffect-Core-tbn.1';
 				package: 'JQWidgetBox-FontEffect-Dev' with: 'JQWidgetBox-FontEffect-Dev-tbn.2';
 				package: 'JQWidgetBox-FormExample-Core' with: 'JQWidgetBox-FormExample-Core-tbn.2';
