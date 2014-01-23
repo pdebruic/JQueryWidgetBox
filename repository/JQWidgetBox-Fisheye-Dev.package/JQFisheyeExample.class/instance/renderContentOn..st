@@ -13,7 +13,7 @@ renderContentOn: html
 				url: '#';
 				with: [					
 					image := (each asString asLowercase , 'Png') asSymbol.					
-					html image src: (self library perform: #/ with: (image)).
+					html image url: (self library perform: #/ with: (image)).
 					html span: each
 				]			
 		]]
