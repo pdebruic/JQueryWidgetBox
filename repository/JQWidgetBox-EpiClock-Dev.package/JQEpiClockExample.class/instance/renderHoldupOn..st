@@ -1,13 +1,13 @@
 rendering
 renderHoldupOn: html
-	|id t x|
+	|id t |
 	t := TimeStamp now.
 	id := html nextId.	
 	html div 
 		id: id;
 		script: ((html jQuery id: id) epiclock 
 				holdupClock;
-				target: (t plusSeconds:(60*2));
+				target: (t + (60*2) seconds);
 			 	format: 'i{m} s{s}').
 
 	html button
