@@ -51,7 +51,7 @@ version28: spec
 				package: 'JQWidgetBox-HoverIntent-Dev' with: 'JQWidgetBox-HoverIntent-Dev-tbn.5';
 				package: 'JQWidgetBox-JEditable-Core' with: 'JQWidgetBox-JEditable-Core-JohanBrichau.1';
 				package: 'JQWidgetBox-JEditable-Dev' with: 'JQWidgetBox-JEditable-Dev-JohanBrichau.1';
-				package: 'JQWidgetBox-JQGrid-Core' with: 'JQWidgetBox-JQGrid-Core-sabineknoefel.4';
+				package: 'JQWidgetBox-JQGrid-Core' with: 'JQWidgetBox-JQGrid-Core-sabineknoefel.5';
 				package: 'JQWidgetBox-JQGrid-Dev' with: 'JQWidgetBox-JQGrid-Dev-TorstenBergmann.4';
 				package: 'JQWidgetBox-JQTools-Tabs-Core' with: 'JQWidgetBox-JQTools-Tabs-Core-NickAger.2';
 				package: 'JQWidgetBox-JQTools-Tabs-Dev' with: 'JQWidgetBox-JQTools-Tabs-Dev-NickAger.2';
