@@ -8,8 +8,8 @@ processSearchCallback
 		response
 			doNotCache;
 			contentType: (WAMimeType applicationJson
-				charset: self requestContext handler charSet).
-		searchResponse jsonOn: response stream].
+				charset: self requestContext handler charSet).  
+	response stream json: searchResponse     ].
 	
 	
 	
