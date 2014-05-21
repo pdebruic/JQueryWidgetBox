@@ -5,10 +5,10 @@ version28: spec
 		for: #common
 		do: [ 
 			spec blessing: #development.
-			spec author: 'Torsten Bergmann'.
-			spec description: 'Switch to Seaside 3 on STHub (Seaside 3.1.0)'.
+			spec author: 'Stephan Eggermont'.
+			spec description: 'Switch to release based version'.
 			spec
-				project: 'Seaside3' with: '3.1.0';
+				project: 'Seaside3' with: #'release31';
 				project: 'JQuery Tests' with: #stable.
 			spec
 				package: 'JQWidgetBox-Core' with: 'JQWidgetBox-Core-tbn.2';
