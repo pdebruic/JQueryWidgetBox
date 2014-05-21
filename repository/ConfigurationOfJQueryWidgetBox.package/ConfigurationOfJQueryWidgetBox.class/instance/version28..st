@@ -8,7 +8,7 @@ version28: spec
 			spec author: 'Stephan Eggermont'.
 			spec description: 'Switch to release based version'.
 			spec
-				project: 'Seaside3' with: #'release31';
+				project: 'Seaside3' with: #'release3.1';
 				project: 'JQuery Tests' with: #stable.
 			spec
 				package: 'JQWidgetBox-Core' with: 'JQWidgetBox-Core-tbn.2';
