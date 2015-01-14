@@ -30,5 +30,5 @@ a view name
 Specifying an empty string for a property will cause it display no text/buttons."
 
 	| headerJson |
-	headerJson := String streamContents: [ :stream | JSJsonStream encodeDictionary: aDictionary on: stream ].
+	headerJson := String streamContents: [ :stream | stream json: aDictionary  ].
 	self optionAt: 'header' put: (JSStream on: headerJson)

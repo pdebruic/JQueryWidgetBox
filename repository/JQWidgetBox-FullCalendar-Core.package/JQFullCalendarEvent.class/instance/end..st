@@ -1,3 +1,5 @@
 accessing
 end: aDateAndTime
-	 timespan duration: (aDateAndTime - timespan start)
+	timespan ifNil:[^Error signal:'Set the timespan start first'].
+
+	 timespan duration: (aDateAndTime - self start)

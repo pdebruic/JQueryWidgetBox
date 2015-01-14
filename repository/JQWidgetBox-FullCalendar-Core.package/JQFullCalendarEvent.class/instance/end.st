@@ -1,3 +1,4 @@
 accessing
 end
-	^ self timespan end 
+	timespan ifNil:[^nil].
+	^timespan end

@@ -1,5 +1,5 @@
 accessing
 start: aDateAndTime
-	| timespanEnd |
-	timespanEnd := self end.
-	timespan := Timespan starting: aDateAndTime ending: timespanEnd
+	timespan := self end isNil 
+					ifTrue:[Timespan starting:aDateAndTime] 
+					ifFalse:[Timespan starting: aDateAndTime ending: self end]

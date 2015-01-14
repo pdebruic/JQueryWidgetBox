@@ -93,6 +93,6 @@ $('#calendar').fullCalendar({
 "
 
 	| eventJson |
-	eventJson := String streamContents: [ :stream | JSJsonStream encodeCollection: aCollectionOfEvents on: stream ].
+	eventJson := String streamContents: [ :stream |stream json:aCollectionOfEvents  ].
 
 	self optionAt: 'events' put: (JSStream on: eventJson)
