@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQWidget",
+	"category" : "JQuery-WidgetBox-Endless-Scroll-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQEndlessScroll",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"callback:" : "PaulDeBruicker 12/21/2009 10:07",
+		"fireOnce:" : "PaulDeBruicker 11/17/2009 11:39",
+		"loader:" : "PaulDeBruicker 11/17/2009 11:45",
+		"visible:" : "PaulDeBruicker 2/27/2010 15:26",
+		"method" : "PaulDeBruicker 12/17/2009 16:49",
+		"insertAfter:" : "PaulDeBruicker 11/17/2009 11:40",
+		"bottomPixels:" : "PaulDeBruicker 11/17/2009 11:38",
+		"fireDelay:" : "PaulDeBruicker 11/17/2009 11:39",
+		"data:" : "PaulDeBruicker 11/17/2009 11:46"
+	},
+	"class" : { }
+}
