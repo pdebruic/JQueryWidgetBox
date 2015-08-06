@@ -1,3 +1,3 @@
 accessing
 events
-	^ events
+	^ self session events

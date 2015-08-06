@@ -1,15 +1,12 @@
 {
 	"instance" : {
-		"events" : "PaulDeBruicker 6/25/2010 14:29",
 		"initialize" : "PaulDeBruicker 6/25/2010 14:18",
+		"renderContentOn:" : "PaulDeBruicker 8/6/2015 14:14",
 		"updateRoot:" : "PaulDeBruicker 1/15/2013 16:15",
-		"calendar" : "PaulDeBruicker 6/25/2010 15:39",
-		"renderContentOn:" : "PaulDeBruicker 6/25/2010 15:55",
-		"calendar:" : "PaulDeBruicker 6/25/2010 15:39",
-		"events:" : "PaulDeBruicker 6/25/2010 14:29"
+		"children" : "PaulDeBruicker 8/6/2015 14:00"
 	},
 	"class" : {
-		"initialize" : "PaulDeBruicker 1/10/2013 09:05",
+		"initialize" : "PaulDeBruicker 8/6/2015 14:13",
 		"shortName" : "PaulDeBruicker 6/21/2010 21:32",
 		"description" : "PaulDeBruicker 6/21/2010 21:32"
 	}

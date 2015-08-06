@@ -1,4 +1,4 @@
 as yet unclassified
 saveNew
-
-	events add: event
+	
+	self events add: event

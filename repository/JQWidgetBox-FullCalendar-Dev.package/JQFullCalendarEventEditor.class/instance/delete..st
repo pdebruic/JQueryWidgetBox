@@ -1,4 +1,3 @@
 accessing
 delete: anEvent
-
-	events remove: anEvent.
+	self events remove: anEvent

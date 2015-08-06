@@ -1,18 +1,18 @@
 {
 	"instance" : {
-		"renderCalendar:" : "PaulDeBruicker 1/15/2013 15:19",
+		"eventEditor" : "PaulDeBruicker 8/6/2015 13:59",
+		"renderCalendar:" : "PaulDeBruicker 8/6/2015 14:06",
+		"children" : "PaulDeBruicker 8/6/2015 14:00",
 		"renderContentOn:" : "PaulDeBruicker 1/15/2013 15:42",
-		"setEventToCreate:" : "PaulDeBruicker 8/6/2010 14:05",
-		"events" : "PaulDeBruicker 6/25/2010 15:30",
-		"renderEventEditorDialog:" : "PaulDeBruicker 6/25/2010 15:33",
+		"setEventToCreate:" : "PaulDeBruicker 8/6/2015 13:59",
+		"renderEventEditorDialog:" : "PaulDeBruicker 8/6/2015 13:47",
 		"header" : "PaulDeBruicker 6/25/2010 15:33",
-		"setEventToEdit:" : "PaulDeBruicker 6/25/2010 15:40",
+		"setEventToEdit:" : "PaulDeBruicker 8/6/2015 14:22",
 		"updateEventColorsScript:" : "PaulDeBruicker 1/15/2013 16:49",
 		"renderChangeEventColors:" : "PaulDeBruicker 1/15/2013 15:43",
-		"events:" : "PaulDeBruicker 6/25/2010 15:30",
+		"updateEventStart:" : "PaulDeBruicker 8/6/2015 14:31",
 		"changedEventProperties" : "PaulDeBruicker 1/15/2013 16:05",
-		"updateEventEnd:" : "PaulDeBruicker 6/25/2010 15:33",
-		"updateEventStart:" : "PaulDeBruicker 1/10/2013 09:07"
+		"updateEventEnd:" : "PaulDeBruicker 8/6/2015 14:32"
 	},
 	"class" : { }
 }

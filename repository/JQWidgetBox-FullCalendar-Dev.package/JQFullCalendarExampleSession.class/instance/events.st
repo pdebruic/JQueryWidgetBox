@@ -1,4 +1,3 @@
 as yet unclassified
-events 
-
-	^events 
+events
+	^ JQFullCalendarEventStore events

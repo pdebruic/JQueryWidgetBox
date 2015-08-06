@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "PaulDeBruicker 8/6/2015 14:34",
-	"super" : "WASession",
+	"super" : "Object",
 	"category" : "JQWidgetBox-FullCalendar-Dev-Example",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [
-		"events"
+	"classvars" : [
+		"Events"
 	],
-	"name" : "JQFullCalendarExampleSession",
+	"instvars" : [ ],
+	"name" : "JQFullCalendarEventStore",
 	"type" : "normal"
 }

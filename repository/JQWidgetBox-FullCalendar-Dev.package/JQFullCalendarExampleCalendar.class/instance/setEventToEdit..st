@@ -2,8 +2,7 @@ as yet unclassified
 setEventToEdit: anEventId
 	| anEvent |
 	anEvent := (self session events select: [ :each | each id = anEventId ]) first.
-	eventEditor := JQFullCalendarEventEditor  new.
-	^ eventEditor
+	^ self eventEditor
+		calendar: self;
 		event: anEvent;
-		events: self session events;
 		edit: true

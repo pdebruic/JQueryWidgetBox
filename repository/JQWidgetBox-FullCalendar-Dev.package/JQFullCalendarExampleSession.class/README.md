@@ -1,0 +1,1 @@
+Allows the components to look in one place for the event data store.  Whcih for the example is JQFullCalendarEventStore

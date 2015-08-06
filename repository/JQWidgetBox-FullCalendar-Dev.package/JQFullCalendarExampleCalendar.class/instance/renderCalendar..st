@@ -1,5 +1,6 @@
 as yet unclassified
 renderCalendar: html
+	self session events removeAllSuchThat:[:ea | ea isNil].
 	self session events do: [ :each | each id: html nextId ].
 	html div
 		id: 'calendar';
@@ -32,4 +33,4 @@ renderCalendar: html
 											(html jQuery ajax
 												callback: [ :newEventData | self setEventToCreate: newEventData ]
 													json: (JSStream on: 'new Array(startDate,endDate,allDay)');
-												script: [ :s | s << (s jQuery id: 'event-editor') replaceWith: [ :h | h render: eventEditor ] ]))	", (self renderUpdateCalendarScript: html)"
+												script: [ :s | s << (s jQuery id: 'event-editor') replaceWith: [ :h | h render: eventEditor ] ]))

@@ -1,5 +1,4 @@
 as yet unclassified
 replace
-
-	events remove:event.
-	events add: editedEvent 
+	self events remove: event.
+	self events add: editedEvent
