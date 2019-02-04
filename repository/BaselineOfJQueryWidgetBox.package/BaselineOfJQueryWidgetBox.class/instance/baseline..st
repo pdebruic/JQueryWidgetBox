@@ -13,7 +13,7 @@ baseline: spec
 			spec
 				package: 'JQWidgetBox-Core' with: [ spec requires: 'Seaside3' ];
 				package: 'JQWidgetBox-Dev'
-					with: [ spec requires: #('JQWidgetBox-Core' 'JQuery Tests') ].
+					with: [ spec requires: #('JQWidgetBox-Core') ].
 			spec
 				package: 'JQWidgetBox-AccessibleNewsSlider-Core'
 					with: [ spec requires: 'JQWidgetBox-Core' ];
