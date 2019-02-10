@@ -1,7 +1,11 @@
 {
 	"instance" : {
-		"initExamples" : "PaulDeBruicker 2/4/2019 19:22",
-		"baseline:" : "PaulDeBruicker 2/4/2019 13:12"
+		"baselineWidgetCoreLibraries:" : "PaulDeBruicker 2/10/2019 11:12",
+		"baselineGroups:" : "PaulDeBruicker 2/10/2019 11:11",
+		"baselineWidgetDevelopmentExamples:" : "PaulDeBruicker 2/10/2019 11:14",
+		"baselineGemStone:" : "PaulDeBruicker 2/10/2019 11:10",
+		"baseline:" : "PaulDeBruicker 2/10/2019 11:12",
+		"initExamples" : "PaulDeBruicker 2/4/2019 19:22"
 	},
 	"class" : { }
 }
