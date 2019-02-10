@@ -1,11 +1,13 @@
 {
 	"instance" : {
-		"baselineWidgetCoreLibraries:" : "PaulDeBruicker 2/10/2019 11:12",
+		"baselineSqueak:" : "PaulDeBruicker 2/10/2019 11:28",
+		"initExamples" : "PaulDeBruicker 2/4/2019 19:22",
+		"baselinePharo:" : "PaulDeBruicker 2/10/2019 11:28",
 		"baselineGroups:" : "PaulDeBruicker 2/10/2019 11:11",
-		"baselineWidgetDevelopmentExamples:" : "PaulDeBruicker 2/10/2019 11:14",
-		"baselineGemStone:" : "PaulDeBruicker 2/10/2019 11:10",
-		"baseline:" : "PaulDeBruicker 2/10/2019 11:12",
-		"initExamples" : "PaulDeBruicker 2/4/2019 19:22"
+		"baselineGemStone:" : "PaulDeBruicker 2/10/2019 11:27",
+		"baseline:" : "PaulDeBruicker 2/10/2019 11:28",
+		"baselineWidgetCoreLibraries:" : "PaulDeBruicker 2/10/2019 11:12",
+		"baselineWidgetDevelopmentExamples:" : "PaulDeBruicker 2/10/2019 11:14"
 	},
 	"class" : { }
 }

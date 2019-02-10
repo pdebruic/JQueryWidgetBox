@@ -12,9 +12,11 @@ baseline: spec
 						loads: #('JQueryUI Tests' 'Seaside-JSON-Core' 'Core') ].
 			spec
 				package: 'JQWidgetBox-Core' with: [ spec requires: 'Seaside3' ];
-				package: 'JQWidgetBox-Dev'
-					with: [ spec requires: #('JQWidgetBox-Core') ].
+				package: 'JQWidgetBox-Dev' with: [ spec requires: #('JQWidgetBox-Core') ].
 			self baselineWidgetCoreLibraries: spec.
 			self baselineWidgetDevelopmentExamples: spec.
 			self baselineGroups: spec ].
-	self baselineGemStone: spec
+	self
+		baselineSqueak: spec;
+		baselinePharo: spec;
+		baselineGemStone: spec
