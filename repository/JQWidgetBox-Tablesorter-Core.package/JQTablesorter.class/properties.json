@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "JQWidget",
+	"category" : "JQWidgetBox-Tablesorter-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JQTablesorter",
+	"type" : "normal"
+}
